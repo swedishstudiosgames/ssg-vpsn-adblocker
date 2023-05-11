@@ -1,5 +1,6 @@
 import platform,string
 ip="127.0.0.1 "
+ip2="0.0.0.0 "
 dvb="||"
 s1=""
 s2="^"
@@ -13,6 +14,9 @@ def generate_suffixes(domain):
         suffixes.append(ip+domain+s1)
         suffixes.append(ip+domain+s2)
         suffixes.append(ip+domain+s3)
+        suffixes.append(ip2+domain+s1)
+        suffixes.append(ip2+domain+s2)
+        suffixes.append(ip2+domain+s3)
         suffixes.append(dvb+domain+s1)
         suffixes.append(dvb+domain+s2)
         suffixes.append(dvb+domain+s3)
