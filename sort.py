@@ -5,21 +5,24 @@ dvb="||"
 s1=""
 s2="^"
 s3="^$important"
+a1=(ip+domain)
+b3=(ip2+domain)
+g6=(dvb+domain)
 input_file="input.txt"
 output_file="output.txt"
 generated_lines=set()
 def generate_suffixes(domain):
     suffixes=[]
     if not domain.endswith(s2):
-        suffixes.append(ip+domain+s1)
-        suffixes.append(ip+domain+s2)
-        suffixes.append(ip+domain+s3)
-        suffixes.append(ip2+domain+s1)
-        suffixes.append(ip2+domain+s2)
-        suffixes.append(ip2+domain+s3)
-        suffixes.append(dvb+domain+s1)
-        suffixes.append(dvb+domain+s2)
-        suffixes.append(dvb+domain+s3)
+        suffixes.append(a1+s1)
+        suffixes.append(a1+s2)
+        suffixes.append(a1+s3)
+        suffixes.append(b3+s1)
+        suffixes.append(b3+s2)
+        suffixes.append(b3+s3)
+        suffixes.append(g6+s1)
+        suffixes.append(g6+s2)
+        suffixes.append(g6+s3)
     return suffixes
 with open(input_file,"r")as f:
     for line in f:
