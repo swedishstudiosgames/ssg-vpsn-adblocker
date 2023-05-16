@@ -1414,8 +1414,8 @@
 0.0.0.0 EUVPNEast.corp.fitbit.com^
 0.0.0.0 EUVPNEAST.corp.fitbit.com^$important
 0.0.0.0 EUVPNEast.corp.fitbit.com^$important
-0.0.0.0 EUVPNMsq.corp.fitbit.com
 0.0.0.0 EUVPNMSQ.corp.fitbit.com
+0.0.0.0 EUVPNMsq.corp.fitbit.com
 0.0.0.0 EUVPNMsq.corp.fitbit.com^
 0.0.0.0 EUVPNMSQ.corp.fitbit.com^
 0.0.0.0 EUVPNMSQ.corp.fitbit.com^$important
@@ -3952,6 +3952,9 @@
 0.0.0.0 thrillrush1.page.link
 0.0.0.0 thrillrush1.page.link^
 0.0.0.0 thrillrush1.page.link^$important
+0.0.0.0 tiktok.com
+0.0.0.0 tiktok.com^
+0.0.0.0 tiktok.com^$important
 0.0.0.0 time.nest.com
 0.0.0.0 time.nest.com^
 0.0.0.0 time.nest.com^$important
@@ -4374,16 +4377,16 @@
 0.0.0.0 usbatch1.page.link^$important
 0.0.0.0 USVPNEAST.corp.fitbit.com
 0.0.0.0 USVPNEast.corp.fitbit.com
-0.0.0.0 USVPNEast.corp.fitbit.com^
 0.0.0.0 USVPNEAST.corp.fitbit.com^
+0.0.0.0 USVPNEast.corp.fitbit.com^
 0.0.0.0 USVPNEAST.corp.fitbit.com^$important
 0.0.0.0 USVPNEast.corp.fitbit.com^$important
 0.0.0.0 USVPNWest.corp.fitbit.com
 0.0.0.0 USVPNWEST.corp.fitbit.com
-0.0.0.0 USVPNWest.corp.fitbit.com^
 0.0.0.0 USVPNWEST.corp.fitbit.com^
-0.0.0.0 USVPNWest.corp.fitbit.com^$important
+0.0.0.0 USVPNWest.corp.fitbit.com^
 0.0.0.0 USVPNWEST.corp.fitbit.com^$important
+0.0.0.0 USVPNWest.corp.fitbit.com^$important
 0.0.0.0 utility-api.nest.com
 0.0.0.0 utility-api.nest.com^
 0.0.0.0 utility-api.nest.com^$important
@@ -4627,6 +4630,9 @@
 0.0.0.0 www.recaptcha.net
 0.0.0.0 www.recaptcha.net^
 0.0.0.0 www.recaptcha.net^$important
+0.0.0.0 www.tiktok.com
+0.0.0.0 www.tiktok.com^
+0.0.0.0 www.tiktok.com^$important
 0.0.0.0 www.tiltbrush.com
 0.0.0.0 www.tiltbrush.com^
 0.0.0.0 www.tiltbrush.com^$important
@@ -6256,18 +6262,18 @@
 127.0.0.1 euro2020.page.link
 127.0.0.1 euro2020.page.link^
 127.0.0.1 euro2020.page.link^$important
-127.0.0.1 EUVPNEast.corp.fitbit.com
 127.0.0.1 EUVPNEAST.corp.fitbit.com
-127.0.0.1 EUVPNEast.corp.fitbit.com^
+127.0.0.1 EUVPNEast.corp.fitbit.com
 127.0.0.1 EUVPNEAST.corp.fitbit.com^
-127.0.0.1 EUVPNEast.corp.fitbit.com^$important
+127.0.0.1 EUVPNEast.corp.fitbit.com^
 127.0.0.1 EUVPNEAST.corp.fitbit.com^$important
-127.0.0.1 EUVPNMsq.corp.fitbit.com
+127.0.0.1 EUVPNEast.corp.fitbit.com^$important
 127.0.0.1 EUVPNMSQ.corp.fitbit.com
-127.0.0.1 EUVPNMSQ.corp.fitbit.com^
+127.0.0.1 EUVPNMsq.corp.fitbit.com
 127.0.0.1 EUVPNMsq.corp.fitbit.com^
-127.0.0.1 EUVPNMsq.corp.fitbit.com^$important
+127.0.0.1 EUVPNMSQ.corp.fitbit.com^
 127.0.0.1 EUVPNMSQ.corp.fitbit.com^$important
+127.0.0.1 EUVPNMsq.corp.fitbit.com^$important
 127.0.0.1 evfkvug2jz.com
 127.0.0.1 evfkvug2jz.com^
 127.0.0.1 evfkvug2jz.com^$important
@@ -8800,6 +8806,9 @@
 127.0.0.1 thrillrush1.page.link
 127.0.0.1 thrillrush1.page.link^
 127.0.0.1 thrillrush1.page.link^$important
+127.0.0.1 tiktok.com
+127.0.0.1 tiktok.com^
+127.0.0.1 tiktok.com^$important
 127.0.0.1 time.nest.com
 127.0.0.1 time.nest.com^
 127.0.0.1 time.nest.com^$important
@@ -9224,12 +9233,12 @@
 127.0.0.1 USVPNEast.corp.fitbit.com
 127.0.0.1 USVPNEAST.corp.fitbit.com^
 127.0.0.1 USVPNEast.corp.fitbit.com^
-127.0.0.1 USVPNEast.corp.fitbit.com^$important
 127.0.0.1 USVPNEAST.corp.fitbit.com^$important
+127.0.0.1 USVPNEast.corp.fitbit.com^$important
 127.0.0.1 USVPNWest.corp.fitbit.com
 127.0.0.1 USVPNWEST.corp.fitbit.com
-127.0.0.1 USVPNWEST.corp.fitbit.com^
 127.0.0.1 USVPNWest.corp.fitbit.com^
+127.0.0.1 USVPNWEST.corp.fitbit.com^
 127.0.0.1 USVPNWEST.corp.fitbit.com^$important
 127.0.0.1 USVPNWest.corp.fitbit.com^$important
 127.0.0.1 utility-api.nest.com
@@ -9475,6 +9484,9 @@
 127.0.0.1 www.recaptcha.net
 127.0.0.1 www.recaptcha.net^
 127.0.0.1 www.recaptcha.net^$important
+127.0.0.1 www.tiktok.com
+127.0.0.1 www.tiktok.com^
+127.0.0.1 www.tiktok.com^$important
 127.0.0.1 www.tiltbrush.com
 127.0.0.1 www.tiltbrush.com^
 127.0.0.1 www.tiltbrush.com^$important
@@ -11104,14 +11116,14 @@
 ||euro2020.page.link
 ||euro2020.page.link^
 ||euro2020.page.link^$important
-||EUVPNEAST.corp.fitbit.com
 ||EUVPNEast.corp.fitbit.com
-||EUVPNEAST.corp.fitbit.com^
+||EUVPNEAST.corp.fitbit.com
 ||EUVPNEast.corp.fitbit.com^
-||EUVPNEAST.corp.fitbit.com^$important
+||EUVPNEAST.corp.fitbit.com^
 ||EUVPNEast.corp.fitbit.com^$important
-||EUVPNMSQ.corp.fitbit.com
+||EUVPNEAST.corp.fitbit.com^$important
 ||EUVPNMsq.corp.fitbit.com
+||EUVPNMSQ.corp.fitbit.com
 ||EUVPNMsq.corp.fitbit.com^
 ||EUVPNMSQ.corp.fitbit.com^
 ||EUVPNMSQ.corp.fitbit.com^$important
@@ -13648,6 +13660,9 @@
 ||thrillrush1.page.link
 ||thrillrush1.page.link^
 ||thrillrush1.page.link^$important
+||tiktok.com
+||tiktok.com^
+||tiktok.com^$important
 ||time.nest.com
 ||time.nest.com^
 ||time.nest.com^$important
@@ -14068,18 +14083,18 @@
 ||usbatch1.page.link
 ||usbatch1.page.link^
 ||usbatch1.page.link^$important
-||USVPNEAST.corp.fitbit.com
 ||USVPNEast.corp.fitbit.com
-||USVPNEAST.corp.fitbit.com^
+||USVPNEAST.corp.fitbit.com
 ||USVPNEast.corp.fitbit.com^
-||USVPNEast.corp.fitbit.com^$important
+||USVPNEAST.corp.fitbit.com^
 ||USVPNEAST.corp.fitbit.com^$important
+||USVPNEast.corp.fitbit.com^$important
 ||USVPNWest.corp.fitbit.com
 ||USVPNWEST.corp.fitbit.com
 ||USVPNWest.corp.fitbit.com^
 ||USVPNWEST.corp.fitbit.com^
-||USVPNWest.corp.fitbit.com^$important
 ||USVPNWEST.corp.fitbit.com^$important
+||USVPNWest.corp.fitbit.com^$important
 ||utility-api.nest.com
 ||utility-api.nest.com^
 ||utility-api.nest.com^$important
@@ -14323,6 +14338,9 @@
 ||www.recaptcha.net
 ||www.recaptcha.net^
 ||www.recaptcha.net^$important
+||www.tiktok.com
+||www.tiktok.com^
+||www.tiktok.com^$important
 ||www.tiltbrush.com
 ||www.tiltbrush.com^
 ||www.tiltbrush.com^$important
