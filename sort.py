@@ -12,15 +12,24 @@ generated_lines=set()
 def generate_suffixes(domain):
     suffixes=[]
     if not domain.endswith(s2):
-        suffixes.append(p1+s1)
-        suffixes.append(p1+s2)
-        suffixes.append(p1+s3)
-        suffixes.append(p2+s1)
-        suffixes.append(p2+s2)
-        suffixes.append(p2+s3)
-        suffixes.append(p3+s1)
-        suffixes.append(p3+s2)
-        suffixes.append(p3+s3)
+        if p1 and(p1+s1)not in generated_lines:
+            suffixes.append(p1+s1)
+        if p1 and s2 and(p1+s2)not in generated_lines:
+            suffixes.append(p1+s2)
+        if p1 and s3 and (p1+s3)not in generated_lines:
+            suffixes.append(p1+s3)
+        if p2 and(p2+s1)not in generated_lines:
+            suffixes.append(p2+s1)
+        if p2 and s2 and(p2+s2)not in generated_lines:
+            suffixes.append(p2+s2)
+        if p2 and s3 and(p2+s3)not in generated_lines:
+            suffixes.append(p2+s3)
+        if p3 and (p3+s1)not in generated_lines:
+            suffixes.append(p3+s1)
+        if p3 and s2 and(p3+s2)not in generated_lines:
+            suffixes.append(p3+s2)
+        if p3 and s3 and(p3+s3)not in generated_lines:
+            suffixes.append(p3+s3)
     return suffixes
 input_file="input.txt"
 output_file="output.txt"
