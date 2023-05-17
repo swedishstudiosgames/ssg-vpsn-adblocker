@@ -769,9 +769,9 @@
 0.0.0.0 apt.hq.nest.com
 0.0.0.0 apt.hq.nest.com^
 0.0.0.0 apt.hq.nest.com^$important
-0.0.0.0 APVPNEast.corp.fitbit.com
-0.0.0.0 APVPNEast.corp.fitbit.com^
-0.0.0.0 APVPNEast.corp.fitbit.com^$important
+0.0.0.0 apvpneast.corp.fitbit.com
+0.0.0.0 apvpneast.corp.fitbit.com^
+0.0.0.0 apvpneast.corp.fitbit.com^$important
 0.0.0.0 aricmedia1.page.link
 0.0.0.0 aricmedia1.page.link^
 0.0.0.0 aricmedia1.page.link^$important
@@ -808,9 +808,9 @@
 0.0.0.0 aventurine.nest.com
 0.0.0.0 aventurine.nest.com^
 0.0.0.0 aventurine.nest.com^$important
-0.0.0.0 AWS01-NF-01.corp.fitbit.com
-0.0.0.0 AWS01-NF-01.corp.fitbit.com^
-0.0.0.0 AWS01-NF-01.corp.fitbit.com^$important
+0.0.0.0 aws01-nf-01.corp.fitbit.com
+0.0.0.0 aws01-nf-01.corp.fitbit.com^
+0.0.0.0 aws01-nf-01.corp.fitbit.com^$important
 0.0.0.0 awsclickersandtracks2.page.link
 0.0.0.0 awsclickersandtracks2.page.link^
 0.0.0.0 awsclickersandtracks2.page.link^$important
@@ -907,9 +907,9 @@
 0.0.0.0 bt7gxxpmaf.com
 0.0.0.0 bt7gxxpmaf.com^
 0.0.0.0 bt7gxxpmaf.com^$important
-0.0.0.0 BUH0102-NF-02.corp.fitbit.com
-0.0.0.0 BUH0102-NF-02.corp.fitbit.com^
-0.0.0.0 BUH0102-NF-02.corp.fitbit.com^$important
+0.0.0.0 buh0102-nf-02.corp.fitbit.com
+0.0.0.0 buh0102-nf-02.corp.fitbit.com^
+0.0.0.0 buh0102-nf-02.corp.fitbit.com^$important
 0.0.0.0 businessmessages.google
 0.0.0.0 businessmessages.google^
 0.0.0.0 businessmessages.google^$important
@@ -1033,9 +1033,9 @@
 0.0.0.0 clickserver.googleads.com
 0.0.0.0 clickserver.googleads.com^
 0.0.0.0 clickserver.googleads.com^$important
-0.0.0.0 Cliens-2.google.com
-0.0.0.0 Cliens-2.google.com^
-0.0.0.0 Cliens-2.google.com^$important
+0.0.0.0 cliens-2.google.com
+0.0.0.0 cliens-2.google.com^
+0.0.0.0 cliens-2.google.com^$important
 0.0.0.0 cnaiezv38i.com
 0.0.0.0 cnaiezv38i.com^
 0.0.0.0 cnaiezv38i.com^$important
@@ -1192,9 +1192,9 @@
 0.0.0.0 design.google
 0.0.0.0 design.google^
 0.0.0.0 design.google^$important
-0.0.0.0 DeSKtoP.google.com
-0.0.0.0 DeSKtoP.google.com^
-0.0.0.0 DeSKtoP.google.com^$important
+0.0.0.0 desktop.google.com
+0.0.0.0 desktop.google.com^
+0.0.0.0 desktop.google.com^$important
 0.0.0.0 developer-api-ft.nest.com
 0.0.0.0 developer-api-ft.nest.com^
 0.0.0.0 developer-api-ft.nest.com^$important
@@ -1408,18 +1408,12 @@
 0.0.0.0 euro2020.page.link
 0.0.0.0 euro2020.page.link^
 0.0.0.0 euro2020.page.link^$important
-0.0.0.0 EUVPNEAST.corp.fitbit.com
-0.0.0.0 EUVPNEast.corp.fitbit.com
-0.0.0.0 EUVPNEAST.corp.fitbit.com^
-0.0.0.0 EUVPNEast.corp.fitbit.com^
-0.0.0.0 EUVPNEAST.corp.fitbit.com^$important
-0.0.0.0 EUVPNEast.corp.fitbit.com^$important
-0.0.0.0 EUVPNMSQ.corp.fitbit.com
-0.0.0.0 EUVPNMsq.corp.fitbit.com
-0.0.0.0 EUVPNMsq.corp.fitbit.com^
-0.0.0.0 EUVPNMSQ.corp.fitbit.com^
-0.0.0.0 EUVPNMSQ.corp.fitbit.com^$important
-0.0.0.0 EUVPNMsq.corp.fitbit.com^$important
+0.0.0.0 euvpneast.corp.fitbit.com
+0.0.0.0 euvpneast.corp.fitbit.com^
+0.0.0.0 euvpneast.corp.fitbit.com^$important
+0.0.0.0 euvpnmsq.corp.fitbit.com
+0.0.0.0 euvpnmsq.corp.fitbit.com^
+0.0.0.0 euvpnmsq.corp.fitbit.com^$important
 0.0.0.0 evfkvug2jz.com
 0.0.0.0 evfkvug2jz.com^
 0.0.0.0 evfkvug2jz.com^$important
@@ -1588,12 +1582,12 @@
 0.0.0.0 gceq9i4p37.com
 0.0.0.0 gceq9i4p37.com^
 0.0.0.0 gceq9i4p37.com^$important
-0.0.0.0 GCP02-NF-01.corp.fitbit.com
-0.0.0.0 GCP02-NF-01.corp.fitbit.com^
-0.0.0.0 GCP02-NF-01.corp.fitbit.com^$important
-0.0.0.0 GCP03-NF-01.corp.fitbit.com
-0.0.0.0 GCP03-NF-01.corp.fitbit.com^
-0.0.0.0 GCP03-NF-01.corp.fitbit.com^$important
+0.0.0.0 gcp02-nf-01.corp.fitbit.com
+0.0.0.0 gcp02-nf-01.corp.fitbit.com^
+0.0.0.0 gcp02-nf-01.corp.fitbit.com^$important
+0.0.0.0 gcp03-nf-01.corp.fitbit.com
+0.0.0.0 gcp03-nf-01.corp.fitbit.com^
+0.0.0.0 gcp03-nf-01.corp.fitbit.com^$important
 0.0.0.0 geh7lu6d0k.com
 0.0.0.0 geh7lu6d0k.com^
 0.0.0.0 geh7lu6d0k.com^$important
@@ -1633,9 +1627,9 @@
 0.0.0.0 girlsjdfhvjhb686174610.page.link
 0.0.0.0 girlsjdfhvjhb686174610.page.link^
 0.0.0.0 girlsjdfhvjhb686174610.page.link^$important
-0.0.0.0 GlobalVPN.corp.fitbit.com
-0.0.0.0 GlobalVPN.corp.fitbit.com^
-0.0.0.0 GlobalVPN.corp.fitbit.com^$important
+0.0.0.0 globalvpn.corp.fitbit.com
+0.0.0.0 globalvpn.corp.fitbit.com^
+0.0.0.0 globalvpn.corp.fitbit.com^$important
 0.0.0.0 gloryl2.page.link
 0.0.0.0 gloryl2.page.link^
 0.0.0.0 gloryl2.page.link^$important
@@ -2797,9 +2791,9 @@
 0.0.0.0 ikknil4o42.com
 0.0.0.0 ikknil4o42.com^
 0.0.0.0 ikknil4o42.com^$important
-0.0.0.0 IMAGEs.google.com
-0.0.0.0 IMAGEs.google.com^
-0.0.0.0 IMAGEs.google.com^$important
+0.0.0.0 images.google.com
+0.0.0.0 images.google.com^
+0.0.0.0 images.google.com^$important
 0.0.0.0 images.mail.nest.com
 0.0.0.0 images.mail.nest.com^
 0.0.0.0 images.mail.nest.com^$important
@@ -2911,9 +2905,9 @@
 0.0.0.0 kormo.com
 0.0.0.0 kormo.com^
 0.0.0.0 kormo.com^$important
-0.0.0.0 KQu0cL-dnsotls-ds.metric.gstatic.com
-0.0.0.0 KQu0cL-dnsotls-ds.metric.gstatic.com^
-0.0.0.0 KQu0cL-dnsotls-ds.metric.gstatic.com^$important
+0.0.0.0 kqu0cl-dnsotls-ds.metric.gstatic.com
+0.0.0.0 kqu0cl-dnsotls-ds.metric.gstatic.com^
+0.0.0.0 kqu0cl-dnsotls-ds.metric.gstatic.com^$important
 0.0.0.0 ksz6f35bz2.com
 0.0.0.0 ksz6f35bz2.com^
 0.0.0.0 ksz6f35bz2.com^$important
@@ -3169,9 +3163,6 @@
 0.0.0.0 microsoft1.page.link
 0.0.0.0 microsoft1.page.link^
 0.0.0.0 microsoft1.page.link^$important
-0.0.0.0 minecraft.com
-0.0.0.0 minecraft.com^
-0.0.0.0 minecraft.com^$important
 0.0.0.0 mlbgyl9f8b.com
 0.0.0.0 mlbgyl9f8b.com^
 0.0.0.0 mlbgyl9f8b.com^$important
@@ -3205,15 +3196,15 @@
 0.0.0.0 mspauth3.page.link
 0.0.0.0 mspauth3.page.link^
 0.0.0.0 mspauth3.page.link^$important
-0.0.0.0 MSQ0106-NF-02.corp.fitbit.com
-0.0.0.0 MSQ0106-NF-02.corp.fitbit.com^
-0.0.0.0 MSQ0106-NF-02.corp.fitbit.com^$important
-0.0.0.0 MSQ0106-NF-02C.corp.fitbit.com
-0.0.0.0 MSQ0106-NF-02C.corp.fitbit.com^
-0.0.0.0 MSQ0106-NF-02C.corp.fitbit.com^$important
-0.0.0.0 MSQ0106-NF-02V.corp.fitbit.com
-0.0.0.0 MSQ0106-NF-02V.corp.fitbit.com^
-0.0.0.0 MSQ0106-NF-02V.corp.fitbit.com^$important
+0.0.0.0 msq0106-nf-02.corp.fitbit.com
+0.0.0.0 msq0106-nf-02.corp.fitbit.com^
+0.0.0.0 msq0106-nf-02.corp.fitbit.com^$important
+0.0.0.0 msq0106-nf-02c.corp.fitbit.com
+0.0.0.0 msq0106-nf-02c.corp.fitbit.com^
+0.0.0.0 msq0106-nf-02c.corp.fitbit.com^$important
+0.0.0.0 msq0106-nf-02v.corp.fitbit.com
+0.0.0.0 msq0106-nf-02v.corp.fitbit.com^
+0.0.0.0 msq0106-nf-02v.corp.fitbit.com^$important
 0.0.0.0 mucmvo8nz9.com
 0.0.0.0 mucmvo8nz9.com^
 0.0.0.0 mucmvo8nz9.com^$important
@@ -3490,9 +3481,6 @@
 0.0.0.0 picasa.com
 0.0.0.0 picasa.com^
 0.0.0.0 picasa.com^$important
-0.0.0.0 pki.google
-0.0.0.0 pki.google^
-0.0.0.0 pki.google^$important
 0.0.0.0 pkn7e9us0y.com
 0.0.0.0 pkn7e9us0y.com^
 0.0.0.0 pkn7e9us0y.com^$important
@@ -3616,9 +3604,9 @@
 0.0.0.0 qxujyohb78.com
 0.0.0.0 qxujyohb78.com^
 0.0.0.0 qxujyohb78.com^$important
-0.0.0.0 R1.sn-2a0noxu-ajt1.gvt1.com
-0.0.0.0 R1.sn-2a0noxu-ajt1.gvt1.com^
-0.0.0.0 R1.sn-2a0noxu-ajt1.gvt1.com^$important
+0.0.0.0 r1.sn-2a0noxu-ajt1.gvt1.com
+0.0.0.0 r1.sn-2a0noxu-ajt1.gvt1.com^
+0.0.0.0 r1.sn-2a0noxu-ajt1.gvt1.com^$important
 0.0.0.0 r3---sn-h0jeln7l.gvt.com
 0.0.0.0 r3---sn-h0jeln7l.gvt.com^
 0.0.0.0 r3---sn-h0jeln7l.gvt.com^$important
@@ -3742,18 +3730,18 @@
 0.0.0.0 sabuaq3xef.com
 0.0.0.0 sabuaq3xef.com^
 0.0.0.0 sabuaq3xef.com^$important
-0.0.0.0 SAC01-SCEP-01.corp.fitbit.com
-0.0.0.0 SAC01-SCEP-01.corp.fitbit.com^
-0.0.0.0 SAC01-SCEP-01.corp.fitbit.com^$important
-0.0.0.0 SAC01-SCEP-02.corp.fitbit.com
-0.0.0.0 SAC01-SCEP-02.corp.fitbit.com^
-0.0.0.0 SAC01-SCEP-02.corp.fitbit.com^$important
-0.0.0.0 SAC01-SCEP.corp.fitbit.com
-0.0.0.0 SAC01-SCEP.corp.fitbit.com^
-0.0.0.0 SAC01-SCEP.corp.fitbit.com^$important
-0.0.0.0 SAC0101-NF-03.corp.fitbit.com
-0.0.0.0 SAC0101-NF-03.corp.fitbit.com^
-0.0.0.0 SAC0101-NF-03.corp.fitbit.com^$important
+0.0.0.0 sac01-scep-01.corp.fitbit.com
+0.0.0.0 sac01-scep-01.corp.fitbit.com^
+0.0.0.0 sac01-scep-01.corp.fitbit.com^$important
+0.0.0.0 sac01-scep-02.corp.fitbit.com
+0.0.0.0 sac01-scep-02.corp.fitbit.com^
+0.0.0.0 sac01-scep-02.corp.fitbit.com^$important
+0.0.0.0 sac01-scep.corp.fitbit.com
+0.0.0.0 sac01-scep.corp.fitbit.com^
+0.0.0.0 sac01-scep.corp.fitbit.com^$important
+0.0.0.0 sac0101-nf-03.corp.fitbit.com
+0.0.0.0 sac0101-nf-03.corp.fitbit.com^
+0.0.0.0 sac0101-nf-03.corp.fitbit.com^$important
 0.0.0.0 safe24.page.link
 0.0.0.0 safe24.page.link^
 0.0.0.0 safe24.page.link^$important
@@ -3964,9 +3952,9 @@
 0.0.0.0 tmqds12u18.com
 0.0.0.0 tmqds12u18.com^
 0.0.0.0 tmqds12u18.com^$important
-0.0.0.0 TOK01-NF-01.corp.fitbit.com
-0.0.0.0 TOK01-NF-01.corp.fitbit.com^
-0.0.0.0 TOK01-NF-01.corp.fitbit.com^$important
+0.0.0.0 tok01-nf-01.corp.fitbit.com
+0.0.0.0 tok01-nf-01.corp.fitbit.com^
+0.0.0.0 tok01-nf-01.corp.fitbit.com^$important
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 tpc.googlesyndication.com^
 0.0.0.0 tpc.googlesyndication.com^$important
@@ -4375,18 +4363,9 @@
 0.0.0.0 usbatch1.page.link
 0.0.0.0 usbatch1.page.link^
 0.0.0.0 usbatch1.page.link^$important
-0.0.0.0 USVPNEAST.corp.fitbit.com
-0.0.0.0 USVPNEast.corp.fitbit.com
-0.0.0.0 USVPNEAST.corp.fitbit.com^
-0.0.0.0 USVPNEast.corp.fitbit.com^
-0.0.0.0 USVPNEAST.corp.fitbit.com^$important
-0.0.0.0 USVPNEast.corp.fitbit.com^$important
-0.0.0.0 USVPNWest.corp.fitbit.com
-0.0.0.0 USVPNWEST.corp.fitbit.com
-0.0.0.0 USVPNWEST.corp.fitbit.com^
-0.0.0.0 USVPNWest.corp.fitbit.com^
-0.0.0.0 USVPNWEST.corp.fitbit.com^$important
-0.0.0.0 USVPNWest.corp.fitbit.com^$important
+0.0.0.0 usvpnwest.corp.fitbit.com
+0.0.0.0 usvpnwest.corp.fitbit.com^
+0.0.0.0 usvpnwest.corp.fitbit.com^$important
 0.0.0.0 utility-api.nest.com
 0.0.0.0 utility-api.nest.com^
 0.0.0.0 utility-api.nest.com^$important
@@ -5623,9 +5602,9 @@
 127.0.0.1 apt.hq.nest.com
 127.0.0.1 apt.hq.nest.com^
 127.0.0.1 apt.hq.nest.com^$important
-127.0.0.1 APVPNEast.corp.fitbit.com
-127.0.0.1 APVPNEast.corp.fitbit.com^
-127.0.0.1 APVPNEast.corp.fitbit.com^$important
+127.0.0.1 apvpneast.corp.fitbit.com
+127.0.0.1 apvpneast.corp.fitbit.com^
+127.0.0.1 apvpneast.corp.fitbit.com^$important
 127.0.0.1 aricmedia1.page.link
 127.0.0.1 aricmedia1.page.link^
 127.0.0.1 aricmedia1.page.link^$important
@@ -5662,9 +5641,9 @@
 127.0.0.1 aventurine.nest.com
 127.0.0.1 aventurine.nest.com^
 127.0.0.1 aventurine.nest.com^$important
-127.0.0.1 AWS01-NF-01.corp.fitbit.com
-127.0.0.1 AWS01-NF-01.corp.fitbit.com^
-127.0.0.1 AWS01-NF-01.corp.fitbit.com^$important
+127.0.0.1 aws01-nf-01.corp.fitbit.com
+127.0.0.1 aws01-nf-01.corp.fitbit.com^
+127.0.0.1 aws01-nf-01.corp.fitbit.com^$important
 127.0.0.1 awsclickersandtracks2.page.link
 127.0.0.1 awsclickersandtracks2.page.link^
 127.0.0.1 awsclickersandtracks2.page.link^$important
@@ -5761,9 +5740,9 @@
 127.0.0.1 bt7gxxpmaf.com
 127.0.0.1 bt7gxxpmaf.com^
 127.0.0.1 bt7gxxpmaf.com^$important
-127.0.0.1 BUH0102-NF-02.corp.fitbit.com
-127.0.0.1 BUH0102-NF-02.corp.fitbit.com^
-127.0.0.1 BUH0102-NF-02.corp.fitbit.com^$important
+127.0.0.1 buh0102-nf-02.corp.fitbit.com
+127.0.0.1 buh0102-nf-02.corp.fitbit.com^
+127.0.0.1 buh0102-nf-02.corp.fitbit.com^$important
 127.0.0.1 businessmessages.google
 127.0.0.1 businessmessages.google^
 127.0.0.1 businessmessages.google^$important
@@ -5887,9 +5866,9 @@
 127.0.0.1 clickserver.googleads.com
 127.0.0.1 clickserver.googleads.com^
 127.0.0.1 clickserver.googleads.com^$important
-127.0.0.1 Cliens-2.google.com
-127.0.0.1 Cliens-2.google.com^
-127.0.0.1 Cliens-2.google.com^$important
+127.0.0.1 cliens-2.google.com
+127.0.0.1 cliens-2.google.com^
+127.0.0.1 cliens-2.google.com^$important
 127.0.0.1 cnaiezv38i.com
 127.0.0.1 cnaiezv38i.com^
 127.0.0.1 cnaiezv38i.com^$important
@@ -6046,9 +6025,9 @@
 127.0.0.1 design.google
 127.0.0.1 design.google^
 127.0.0.1 design.google^$important
-127.0.0.1 DeSKtoP.google.com
-127.0.0.1 DeSKtoP.google.com^
-127.0.0.1 DeSKtoP.google.com^$important
+127.0.0.1 desktop.google.com
+127.0.0.1 desktop.google.com^
+127.0.0.1 desktop.google.com^$important
 127.0.0.1 developer-api-ft.nest.com
 127.0.0.1 developer-api-ft.nest.com^
 127.0.0.1 developer-api-ft.nest.com^$important
@@ -6262,18 +6241,12 @@
 127.0.0.1 euro2020.page.link
 127.0.0.1 euro2020.page.link^
 127.0.0.1 euro2020.page.link^$important
-127.0.0.1 EUVPNEAST.corp.fitbit.com
-127.0.0.1 EUVPNEast.corp.fitbit.com
-127.0.0.1 EUVPNEAST.corp.fitbit.com^
-127.0.0.1 EUVPNEast.corp.fitbit.com^
-127.0.0.1 EUVPNEAST.corp.fitbit.com^$important
-127.0.0.1 EUVPNEast.corp.fitbit.com^$important
-127.0.0.1 EUVPNMSQ.corp.fitbit.com
-127.0.0.1 EUVPNMsq.corp.fitbit.com
-127.0.0.1 EUVPNMsq.corp.fitbit.com^
-127.0.0.1 EUVPNMSQ.corp.fitbit.com^
-127.0.0.1 EUVPNMSQ.corp.fitbit.com^$important
-127.0.0.1 EUVPNMsq.corp.fitbit.com^$important
+127.0.0.1 euvpneast.corp.fitbit.com
+127.0.0.1 euvpneast.corp.fitbit.com^
+127.0.0.1 euvpneast.corp.fitbit.com^$important
+127.0.0.1 euvpnmsq.corp.fitbit.com
+127.0.0.1 euvpnmsq.corp.fitbit.com^
+127.0.0.1 euvpnmsq.corp.fitbit.com^$important
 127.0.0.1 evfkvug2jz.com
 127.0.0.1 evfkvug2jz.com^
 127.0.0.1 evfkvug2jz.com^$important
@@ -6442,12 +6415,12 @@
 127.0.0.1 gceq9i4p37.com
 127.0.0.1 gceq9i4p37.com^
 127.0.0.1 gceq9i4p37.com^$important
-127.0.0.1 GCP02-NF-01.corp.fitbit.com
-127.0.0.1 GCP02-NF-01.corp.fitbit.com^
-127.0.0.1 GCP02-NF-01.corp.fitbit.com^$important
-127.0.0.1 GCP03-NF-01.corp.fitbit.com
-127.0.0.1 GCP03-NF-01.corp.fitbit.com^
-127.0.0.1 GCP03-NF-01.corp.fitbit.com^$important
+127.0.0.1 gcp02-nf-01.corp.fitbit.com
+127.0.0.1 gcp02-nf-01.corp.fitbit.com^
+127.0.0.1 gcp02-nf-01.corp.fitbit.com^$important
+127.0.0.1 gcp03-nf-01.corp.fitbit.com
+127.0.0.1 gcp03-nf-01.corp.fitbit.com^
+127.0.0.1 gcp03-nf-01.corp.fitbit.com^$important
 127.0.0.1 geh7lu6d0k.com
 127.0.0.1 geh7lu6d0k.com^
 127.0.0.1 geh7lu6d0k.com^$important
@@ -6487,9 +6460,9 @@
 127.0.0.1 girlsjdfhvjhb686174610.page.link
 127.0.0.1 girlsjdfhvjhb686174610.page.link^
 127.0.0.1 girlsjdfhvjhb686174610.page.link^$important
-127.0.0.1 GlobalVPN.corp.fitbit.com
-127.0.0.1 GlobalVPN.corp.fitbit.com^
-127.0.0.1 GlobalVPN.corp.fitbit.com^$important
+127.0.0.1 globalvpn.corp.fitbit.com
+127.0.0.1 globalvpn.corp.fitbit.com^
+127.0.0.1 globalvpn.corp.fitbit.com^$important
 127.0.0.1 gloryl2.page.link
 127.0.0.1 gloryl2.page.link^
 127.0.0.1 gloryl2.page.link^$important
@@ -7651,9 +7624,9 @@
 127.0.0.1 ikknil4o42.com
 127.0.0.1 ikknil4o42.com^
 127.0.0.1 ikknil4o42.com^$important
-127.0.0.1 IMAGEs.google.com
-127.0.0.1 IMAGEs.google.com^
-127.0.0.1 IMAGEs.google.com^$important
+127.0.0.1 images.google.com
+127.0.0.1 images.google.com^
+127.0.0.1 images.google.com^$important
 127.0.0.1 images.mail.nest.com
 127.0.0.1 images.mail.nest.com^
 127.0.0.1 images.mail.nest.com^$important
@@ -7765,9 +7738,9 @@
 127.0.0.1 kormo.com
 127.0.0.1 kormo.com^
 127.0.0.1 kormo.com^$important
-127.0.0.1 KQu0cL-dnsotls-ds.metric.gstatic.com
-127.0.0.1 KQu0cL-dnsotls-ds.metric.gstatic.com^
-127.0.0.1 KQu0cL-dnsotls-ds.metric.gstatic.com^$important
+127.0.0.1 kqu0cl-dnsotls-ds.metric.gstatic.com
+127.0.0.1 kqu0cl-dnsotls-ds.metric.gstatic.com^
+127.0.0.1 kqu0cl-dnsotls-ds.metric.gstatic.com^$important
 127.0.0.1 ksz6f35bz2.com
 127.0.0.1 ksz6f35bz2.com^
 127.0.0.1 ksz6f35bz2.com^$important
@@ -8023,9 +7996,6 @@
 127.0.0.1 microsoft1.page.link
 127.0.0.1 microsoft1.page.link^
 127.0.0.1 microsoft1.page.link^$important
-127.0.0.1 minecraft.com
-127.0.0.1 minecraft.com^
-127.0.0.1 minecraft.com^$important
 127.0.0.1 mlbgyl9f8b.com
 127.0.0.1 mlbgyl9f8b.com^
 127.0.0.1 mlbgyl9f8b.com^$important
@@ -8059,15 +8029,15 @@
 127.0.0.1 mspauth3.page.link
 127.0.0.1 mspauth3.page.link^
 127.0.0.1 mspauth3.page.link^$important
-127.0.0.1 MSQ0106-NF-02.corp.fitbit.com
-127.0.0.1 MSQ0106-NF-02.corp.fitbit.com^
-127.0.0.1 MSQ0106-NF-02.corp.fitbit.com^$important
-127.0.0.1 MSQ0106-NF-02C.corp.fitbit.com
-127.0.0.1 MSQ0106-NF-02C.corp.fitbit.com^
-127.0.0.1 MSQ0106-NF-02C.corp.fitbit.com^$important
-127.0.0.1 MSQ0106-NF-02V.corp.fitbit.com
-127.0.0.1 MSQ0106-NF-02V.corp.fitbit.com^
-127.0.0.1 MSQ0106-NF-02V.corp.fitbit.com^$important
+127.0.0.1 msq0106-nf-02.corp.fitbit.com
+127.0.0.1 msq0106-nf-02.corp.fitbit.com^
+127.0.0.1 msq0106-nf-02.corp.fitbit.com^$important
+127.0.0.1 msq0106-nf-02c.corp.fitbit.com
+127.0.0.1 msq0106-nf-02c.corp.fitbit.com^
+127.0.0.1 msq0106-nf-02c.corp.fitbit.com^$important
+127.0.0.1 msq0106-nf-02v.corp.fitbit.com
+127.0.0.1 msq0106-nf-02v.corp.fitbit.com^
+127.0.0.1 msq0106-nf-02v.corp.fitbit.com^$important
 127.0.0.1 mucmvo8nz9.com
 127.0.0.1 mucmvo8nz9.com^
 127.0.0.1 mucmvo8nz9.com^$important
@@ -8344,9 +8314,6 @@
 127.0.0.1 picasa.com
 127.0.0.1 picasa.com^
 127.0.0.1 picasa.com^$important
-127.0.0.1 pki.google
-127.0.0.1 pki.google^
-127.0.0.1 pki.google^$important
 127.0.0.1 pkn7e9us0y.com
 127.0.0.1 pkn7e9us0y.com^
 127.0.0.1 pkn7e9us0y.com^$important
@@ -8470,9 +8437,9 @@
 127.0.0.1 qxujyohb78.com
 127.0.0.1 qxujyohb78.com^
 127.0.0.1 qxujyohb78.com^$important
-127.0.0.1 R1.sn-2a0noxu-ajt1.gvt1.com
-127.0.0.1 R1.sn-2a0noxu-ajt1.gvt1.com^
-127.0.0.1 R1.sn-2a0noxu-ajt1.gvt1.com^$important
+127.0.0.1 r1.sn-2a0noxu-ajt1.gvt1.com
+127.0.0.1 r1.sn-2a0noxu-ajt1.gvt1.com^
+127.0.0.1 r1.sn-2a0noxu-ajt1.gvt1.com^$important
 127.0.0.1 r3---sn-h0jeln7l.gvt.com
 127.0.0.1 r3---sn-h0jeln7l.gvt.com^
 127.0.0.1 r3---sn-h0jeln7l.gvt.com^$important
@@ -8596,18 +8563,18 @@
 127.0.0.1 sabuaq3xef.com
 127.0.0.1 sabuaq3xef.com^
 127.0.0.1 sabuaq3xef.com^$important
-127.0.0.1 SAC01-SCEP-01.corp.fitbit.com
-127.0.0.1 SAC01-SCEP-01.corp.fitbit.com^
-127.0.0.1 SAC01-SCEP-01.corp.fitbit.com^$important
-127.0.0.1 SAC01-SCEP-02.corp.fitbit.com
-127.0.0.1 SAC01-SCEP-02.corp.fitbit.com^
-127.0.0.1 SAC01-SCEP-02.corp.fitbit.com^$important
-127.0.0.1 SAC01-SCEP.corp.fitbit.com
-127.0.0.1 SAC01-SCEP.corp.fitbit.com^
-127.0.0.1 SAC01-SCEP.corp.fitbit.com^$important
-127.0.0.1 SAC0101-NF-03.corp.fitbit.com
-127.0.0.1 SAC0101-NF-03.corp.fitbit.com^
-127.0.0.1 SAC0101-NF-03.corp.fitbit.com^$important
+127.0.0.1 sac01-scep-01.corp.fitbit.com
+127.0.0.1 sac01-scep-01.corp.fitbit.com^
+127.0.0.1 sac01-scep-01.corp.fitbit.com^$important
+127.0.0.1 sac01-scep-02.corp.fitbit.com
+127.0.0.1 sac01-scep-02.corp.fitbit.com^
+127.0.0.1 sac01-scep-02.corp.fitbit.com^$important
+127.0.0.1 sac01-scep.corp.fitbit.com
+127.0.0.1 sac01-scep.corp.fitbit.com^
+127.0.0.1 sac01-scep.corp.fitbit.com^$important
+127.0.0.1 sac0101-nf-03.corp.fitbit.com
+127.0.0.1 sac0101-nf-03.corp.fitbit.com^
+127.0.0.1 sac0101-nf-03.corp.fitbit.com^$important
 127.0.0.1 safe24.page.link
 127.0.0.1 safe24.page.link^
 127.0.0.1 safe24.page.link^$important
@@ -8818,9 +8785,9 @@
 127.0.0.1 tmqds12u18.com
 127.0.0.1 tmqds12u18.com^
 127.0.0.1 tmqds12u18.com^$important
-127.0.0.1 TOK01-NF-01.corp.fitbit.com
-127.0.0.1 TOK01-NF-01.corp.fitbit.com^
-127.0.0.1 TOK01-NF-01.corp.fitbit.com^$important
+127.0.0.1 tok01-nf-01.corp.fitbit.com
+127.0.0.1 tok01-nf-01.corp.fitbit.com^
+127.0.0.1 tok01-nf-01.corp.fitbit.com^$important
 127.0.0.1 tpc.googlesyndication.com
 127.0.0.1 tpc.googlesyndication.com^
 127.0.0.1 tpc.googlesyndication.com^$important
@@ -9229,18 +9196,9 @@
 127.0.0.1 usbatch1.page.link
 127.0.0.1 usbatch1.page.link^
 127.0.0.1 usbatch1.page.link^$important
-127.0.0.1 USVPNEAST.corp.fitbit.com
-127.0.0.1 USVPNEast.corp.fitbit.com
-127.0.0.1 USVPNEAST.corp.fitbit.com^
-127.0.0.1 USVPNEast.corp.fitbit.com^
-127.0.0.1 USVPNEAST.corp.fitbit.com^$important
-127.0.0.1 USVPNEast.corp.fitbit.com^$important
-127.0.0.1 USVPNWest.corp.fitbit.com
-127.0.0.1 USVPNWEST.corp.fitbit.com
-127.0.0.1 USVPNWest.corp.fitbit.com^
-127.0.0.1 USVPNWEST.corp.fitbit.com^
-127.0.0.1 USVPNWEST.corp.fitbit.com^$important
-127.0.0.1 USVPNWest.corp.fitbit.com^$important
+127.0.0.1 usvpnwest.corp.fitbit.com
+127.0.0.1 usvpnwest.corp.fitbit.com^
+127.0.0.1 usvpnwest.corp.fitbit.com^$important
 127.0.0.1 utility-api.nest.com
 127.0.0.1 utility-api.nest.com^
 127.0.0.1 utility-api.nest.com^$important
@@ -10477,9 +10435,9 @@
 ||apt.hq.nest.com
 ||apt.hq.nest.com^
 ||apt.hq.nest.com^$important
-||APVPNEast.corp.fitbit.com
-||APVPNEast.corp.fitbit.com^
-||APVPNEast.corp.fitbit.com^$important
+||apvpneast.corp.fitbit.com
+||apvpneast.corp.fitbit.com^
+||apvpneast.corp.fitbit.com^$important
 ||aricmedia1.page.link
 ||aricmedia1.page.link^
 ||aricmedia1.page.link^$important
@@ -10516,9 +10474,9 @@
 ||aventurine.nest.com
 ||aventurine.nest.com^
 ||aventurine.nest.com^$important
-||AWS01-NF-01.corp.fitbit.com
-||AWS01-NF-01.corp.fitbit.com^
-||AWS01-NF-01.corp.fitbit.com^$important
+||aws01-nf-01.corp.fitbit.com
+||aws01-nf-01.corp.fitbit.com^
+||aws01-nf-01.corp.fitbit.com^$important
 ||awsclickersandtracks2.page.link
 ||awsclickersandtracks2.page.link^
 ||awsclickersandtracks2.page.link^$important
@@ -10615,9 +10573,9 @@
 ||bt7gxxpmaf.com
 ||bt7gxxpmaf.com^
 ||bt7gxxpmaf.com^$important
-||BUH0102-NF-02.corp.fitbit.com
-||BUH0102-NF-02.corp.fitbit.com^
-||BUH0102-NF-02.corp.fitbit.com^$important
+||buh0102-nf-02.corp.fitbit.com
+||buh0102-nf-02.corp.fitbit.com^
+||buh0102-nf-02.corp.fitbit.com^$important
 ||businessmessages.google
 ||businessmessages.google^
 ||businessmessages.google^$important
@@ -10741,9 +10699,9 @@
 ||clickserver.googleads.com
 ||clickserver.googleads.com^
 ||clickserver.googleads.com^$important
-||Cliens-2.google.com
-||Cliens-2.google.com^
-||Cliens-2.google.com^$important
+||cliens-2.google.com
+||cliens-2.google.com^
+||cliens-2.google.com^$important
 ||cnaiezv38i.com
 ||cnaiezv38i.com^
 ||cnaiezv38i.com^$important
@@ -10900,9 +10858,9 @@
 ||design.google
 ||design.google^
 ||design.google^$important
-||DeSKtoP.google.com
-||DeSKtoP.google.com^
-||DeSKtoP.google.com^$important
+||desktop.google.com
+||desktop.google.com^
+||desktop.google.com^$important
 ||developer-api-ft.nest.com
 ||developer-api-ft.nest.com^
 ||developer-api-ft.nest.com^$important
@@ -11116,18 +11074,12 @@
 ||euro2020.page.link
 ||euro2020.page.link^
 ||euro2020.page.link^$important
-||EUVPNEast.corp.fitbit.com
-||EUVPNEAST.corp.fitbit.com
-||EUVPNEast.corp.fitbit.com^
-||EUVPNEAST.corp.fitbit.com^
-||EUVPNEast.corp.fitbit.com^$important
-||EUVPNEAST.corp.fitbit.com^$important
-||EUVPNMsq.corp.fitbit.com
-||EUVPNMSQ.corp.fitbit.com
-||EUVPNMsq.corp.fitbit.com^
-||EUVPNMSQ.corp.fitbit.com^
-||EUVPNMSQ.corp.fitbit.com^$important
-||EUVPNMsq.corp.fitbit.com^$important
+||euvpneast.corp.fitbit.com
+||euvpneast.corp.fitbit.com^
+||euvpneast.corp.fitbit.com^$important
+||euvpnmsq.corp.fitbit.com
+||euvpnmsq.corp.fitbit.com^
+||euvpnmsq.corp.fitbit.com^$important
 ||evfkvug2jz.com
 ||evfkvug2jz.com^
 ||evfkvug2jz.com^$important
@@ -11296,12 +11248,12 @@
 ||gceq9i4p37.com
 ||gceq9i4p37.com^
 ||gceq9i4p37.com^$important
-||GCP02-NF-01.corp.fitbit.com
-||GCP02-NF-01.corp.fitbit.com^
-||GCP02-NF-01.corp.fitbit.com^$important
-||GCP03-NF-01.corp.fitbit.com
-||GCP03-NF-01.corp.fitbit.com^
-||GCP03-NF-01.corp.fitbit.com^$important
+||gcp02-nf-01.corp.fitbit.com
+||gcp02-nf-01.corp.fitbit.com^
+||gcp02-nf-01.corp.fitbit.com^$important
+||gcp03-nf-01.corp.fitbit.com
+||gcp03-nf-01.corp.fitbit.com^
+||gcp03-nf-01.corp.fitbit.com^$important
 ||geh7lu6d0k.com
 ||geh7lu6d0k.com^
 ||geh7lu6d0k.com^$important
@@ -11341,9 +11293,9 @@
 ||girlsjdfhvjhb686174610.page.link
 ||girlsjdfhvjhb686174610.page.link^
 ||girlsjdfhvjhb686174610.page.link^$important
-||GlobalVPN.corp.fitbit.com
-||GlobalVPN.corp.fitbit.com^
-||GlobalVPN.corp.fitbit.com^$important
+||globalvpn.corp.fitbit.com
+||globalvpn.corp.fitbit.com^
+||globalvpn.corp.fitbit.com^$important
 ||gloryl2.page.link
 ||gloryl2.page.link^
 ||gloryl2.page.link^$important
@@ -12505,9 +12457,9 @@
 ||ikknil4o42.com
 ||ikknil4o42.com^
 ||ikknil4o42.com^$important
-||IMAGEs.google.com
-||IMAGEs.google.com^
-||IMAGEs.google.com^$important
+||images.google.com
+||images.google.com^
+||images.google.com^$important
 ||images.mail.nest.com
 ||images.mail.nest.com^
 ||images.mail.nest.com^$important
@@ -12619,9 +12571,9 @@
 ||kormo.com
 ||kormo.com^
 ||kormo.com^$important
-||KQu0cL-dnsotls-ds.metric.gstatic.com
-||KQu0cL-dnsotls-ds.metric.gstatic.com^
-||KQu0cL-dnsotls-ds.metric.gstatic.com^$important
+||kqu0cl-dnsotls-ds.metric.gstatic.com
+||kqu0cl-dnsotls-ds.metric.gstatic.com^
+||kqu0cl-dnsotls-ds.metric.gstatic.com^$important
 ||ksz6f35bz2.com
 ||ksz6f35bz2.com^
 ||ksz6f35bz2.com^$important
@@ -12877,9 +12829,6 @@
 ||microsoft1.page.link
 ||microsoft1.page.link^
 ||microsoft1.page.link^$important
-||minecraft.com
-||minecraft.com^
-||minecraft.com^$important
 ||mlbgyl9f8b.com
 ||mlbgyl9f8b.com^
 ||mlbgyl9f8b.com^$important
@@ -12913,15 +12862,15 @@
 ||mspauth3.page.link
 ||mspauth3.page.link^
 ||mspauth3.page.link^$important
-||MSQ0106-NF-02.corp.fitbit.com
-||MSQ0106-NF-02.corp.fitbit.com^
-||MSQ0106-NF-02.corp.fitbit.com^$important
-||MSQ0106-NF-02C.corp.fitbit.com
-||MSQ0106-NF-02C.corp.fitbit.com^
-||MSQ0106-NF-02C.corp.fitbit.com^$important
-||MSQ0106-NF-02V.corp.fitbit.com
-||MSQ0106-NF-02V.corp.fitbit.com^
-||MSQ0106-NF-02V.corp.fitbit.com^$important
+||msq0106-nf-02.corp.fitbit.com
+||msq0106-nf-02.corp.fitbit.com^
+||msq0106-nf-02.corp.fitbit.com^$important
+||msq0106-nf-02c.corp.fitbit.com
+||msq0106-nf-02c.corp.fitbit.com^
+||msq0106-nf-02c.corp.fitbit.com^$important
+||msq0106-nf-02v.corp.fitbit.com
+||msq0106-nf-02v.corp.fitbit.com^
+||msq0106-nf-02v.corp.fitbit.com^$important
 ||mucmvo8nz9.com
 ||mucmvo8nz9.com^
 ||mucmvo8nz9.com^$important
@@ -13198,9 +13147,6 @@
 ||picasa.com
 ||picasa.com^
 ||picasa.com^$important
-||pki.google
-||pki.google^
-||pki.google^$important
 ||pkn7e9us0y.com
 ||pkn7e9us0y.com^
 ||pkn7e9us0y.com^$important
@@ -13324,9 +13270,9 @@
 ||qxujyohb78.com
 ||qxujyohb78.com^
 ||qxujyohb78.com^$important
-||R1.sn-2a0noxu-ajt1.gvt1.com
-||R1.sn-2a0noxu-ajt1.gvt1.com^
-||R1.sn-2a0noxu-ajt1.gvt1.com^$important
+||r1.sn-2a0noxu-ajt1.gvt1.com
+||r1.sn-2a0noxu-ajt1.gvt1.com^
+||r1.sn-2a0noxu-ajt1.gvt1.com^$important
 ||r3---sn-h0jeln7l.gvt.com
 ||r3---sn-h0jeln7l.gvt.com^
 ||r3---sn-h0jeln7l.gvt.com^$important
@@ -13450,18 +13396,18 @@
 ||sabuaq3xef.com
 ||sabuaq3xef.com^
 ||sabuaq3xef.com^$important
-||SAC01-SCEP-01.corp.fitbit.com
-||SAC01-SCEP-01.corp.fitbit.com^
-||SAC01-SCEP-01.corp.fitbit.com^$important
-||SAC01-SCEP-02.corp.fitbit.com
-||SAC01-SCEP-02.corp.fitbit.com^
-||SAC01-SCEP-02.corp.fitbit.com^$important
-||SAC01-SCEP.corp.fitbit.com
-||SAC01-SCEP.corp.fitbit.com^
-||SAC01-SCEP.corp.fitbit.com^$important
-||SAC0101-NF-03.corp.fitbit.com
-||SAC0101-NF-03.corp.fitbit.com^
-||SAC0101-NF-03.corp.fitbit.com^$important
+||sac01-scep-01.corp.fitbit.com
+||sac01-scep-01.corp.fitbit.com^
+||sac01-scep-01.corp.fitbit.com^$important
+||sac01-scep-02.corp.fitbit.com
+||sac01-scep-02.corp.fitbit.com^
+||sac01-scep-02.corp.fitbit.com^$important
+||sac01-scep.corp.fitbit.com
+||sac01-scep.corp.fitbit.com^
+||sac01-scep.corp.fitbit.com^$important
+||sac0101-nf-03.corp.fitbit.com
+||sac0101-nf-03.corp.fitbit.com^
+||sac0101-nf-03.corp.fitbit.com^$important
 ||safe24.page.link
 ||safe24.page.link^
 ||safe24.page.link^$important
@@ -13672,9 +13618,9 @@
 ||tmqds12u18.com
 ||tmqds12u18.com^
 ||tmqds12u18.com^$important
-||TOK01-NF-01.corp.fitbit.com
-||TOK01-NF-01.corp.fitbit.com^
-||TOK01-NF-01.corp.fitbit.com^$important
+||tok01-nf-01.corp.fitbit.com
+||tok01-nf-01.corp.fitbit.com^
+||tok01-nf-01.corp.fitbit.com^$important
 ||tpc.googlesyndication.com
 ||tpc.googlesyndication.com^
 ||tpc.googlesyndication.com^$important
@@ -14083,18 +14029,9 @@
 ||usbatch1.page.link
 ||usbatch1.page.link^
 ||usbatch1.page.link^$important
-||USVPNEast.corp.fitbit.com
-||USVPNEAST.corp.fitbit.com
-||USVPNEast.corp.fitbit.com^
-||USVPNEAST.corp.fitbit.com^
-||USVPNEAST.corp.fitbit.com^$important
-||USVPNEast.corp.fitbit.com^$important
-||USVPNWest.corp.fitbit.com
-||USVPNWEST.corp.fitbit.com
-||USVPNWest.corp.fitbit.com^
-||USVPNWEST.corp.fitbit.com^
-||USVPNWEST.corp.fitbit.com^$important
-||USVPNWest.corp.fitbit.com^$important
+||usvpnwest.corp.fitbit.com
+||usvpnwest.corp.fitbit.com^
+||usvpnwest.corp.fitbit.com^$important
 ||utility-api.nest.com
 ||utility-api.nest.com^
 ||utility-api.nest.com^$important
