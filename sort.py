@@ -4,7 +4,7 @@ s2=["","^","^$important"]
 i1="input.txt"
 o1="output.txt"
 l2= set()
-file_separator="\\"if platform.system()=="Windows"else"/"
+f1="\\"if platform.system()=="Windows"else"/"
 with open(i1,"r")as f:
     for l1 in f:
         l1=l1.strip()
