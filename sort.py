@@ -1,58 +1,17 @@
-import platform,string
-ip="127.0.0.1 "
-ip2="0.0.0.0 "
-dvb="||"
-s1=""
-s2="^"
-s3="^$important"
-p1=""
-p2=""
-p3=""
-generated_lines=set()
-def generate_suffixes(domain):
-    suffixes=[]
-    if not domain.endswith(s2):
-        if p1 and(p1+s1)not in generated_lines:
-            suffixes.append(p1+s1)
-        if p1 and s2 and(p1+s2)not in generated_lines:
-            suffixes.append(p1+s2)
-        if p1 and s3 and (p1+s3)not in generated_lines:
-            suffixes.append(p1+s3)
-        if p2 and(p2+s1)not in generated_lines:
-            suffixes.append(p2+s1)
-        if p2 and s2 and(p2+s2)not in generated_lines:
-            suffixes.append(p2+s2)
-        if p2 and s3 and(p2+s3)not in generated_lines:
-            suffixes.append(p2+s3)
-        if p3 and (p3+s1)not in generated_lines:
-            suffixes.append(p3+s1)
-        if p3 and s2 and(p3+s2)not in generated_lines:
-            suffixes.append(p3+s2)
-        if p3 and s3 and(p3+s3)not in generated_lines:
-            suffixes.append(p3+s3)
-    return suffixes
-input_file="input.txt"
-output_file="output.txt"
-with open(input_file,"r")as f:
-    for line in f:
-        line=line.strip()
-        if s2 in line or s3 in line or"^^"in line or"^$important^"in line:
-            continue
-        if line.startswith(ip):
-            domain=line[len(ip):]
-            p1=(ip+domain)
-            suffixes=generate_suffixes(domain)
-            for suffix in suffixes:
-                if suffix not in generated_lines:
-                    generated_lines.add(suffix)
-        elif line.startswith(dvb):
-            domain=line[len(dvb):]
-            p2=(ip2+domain)
-            p3=(dvb+domain)
-            suffixes=generate_suffixes(domain)
-            for suffix in suffixes:
-                if suffix not in generated_lines:
-                    generated_lines.add(suffix)
-sorted_lines=sorted(generated_lines,key=str.lower)
-with open(output_file,"w")as f:
-    f.write("\n".join(sorted_lines))
+import platform
+p2=["127.0.0.1 ","0.0.0.0 ","||"]
+s2=["","^","^$important"]
+i1="input.txt"
+o1="output.txt"
+l2= set()
+file_separator="\\"if platform.system()=="Windows"else"/"
+with open(i1,"r")as f:
+    for l1 in f:
+        l1=l1.strip()
+        for p1 in p2:
+            for s1 in s2:
+                ml1=p1+l1+s1
+                l2.add(ml1)
+sl2=sorted(l2)
+with open(o1,"w")as f:
+    f.write("\n".join(sl2))
