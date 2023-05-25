@@ -2566,9 +2566,6 @@
 0.0.0.0 googleusercontent.com
 0.0.0.0 googleusercontent.com^
 0.0.0.0 googleusercontent.com^$important
-0.0.0.0 googlevideo.com
-0.0.0.0 googlevideo.com^
-0.0.0.0 googlevideo.com^$important
 0.0.0.0 googlew.com
 0.0.0.0 googlew.com^
 0.0.0.0 googlew.com^$important
@@ -4759,9 +4756,6 @@
 0.0.0.0 yt5hpdttf2.com
 0.0.0.0 yt5hpdttf2.com^
 0.0.0.0 yt5hpdttf2.com^$important
-0.0.0.0 ytimg.com
-0.0.0.0 ytimg.com^
-0.0.0.0 ytimg.com^$important
 0.0.0.0 ytrot01.page.link
 0.0.0.0 ytrot01.page.link^
 0.0.0.0 ytrot01.page.link^$important
@@ -7399,9 +7393,6 @@
 127.0.0.1 googleusercontent.com
 127.0.0.1 googleusercontent.com^
 127.0.0.1 googleusercontent.com^$important
-127.0.0.1 googlevideo.com
-127.0.0.1 googlevideo.com^
-127.0.0.1 googlevideo.com^$important
 127.0.0.1 googlew.com
 127.0.0.1 googlew.com^
 127.0.0.1 googlew.com^$important
@@ -9592,9 +9583,6 @@
 127.0.0.1 yt5hpdttf2.com
 127.0.0.1 yt5hpdttf2.com^
 127.0.0.1 yt5hpdttf2.com^$important
-127.0.0.1 ytimg.com
-127.0.0.1 ytimg.com^
-127.0.0.1 ytimg.com^$important
 127.0.0.1 ytrot01.page.link
 127.0.0.1 ytrot01.page.link^
 127.0.0.1 ytrot01.page.link^$important
@@ -12232,9 +12220,6 @@
 ||googleusercontent.com
 ||googleusercontent.com^
 ||googleusercontent.com^$important
-||googlevideo.com
-||googlevideo.com^
-||googlevideo.com^$important
 ||googlew.com
 ||googlew.com^
 ||googlew.com^$important
@@ -14425,9 +14410,6 @@
 ||yt5hpdttf2.com
 ||yt5hpdttf2.com^
 ||yt5hpdttf2.com^$important
-||ytimg.com
-||ytimg.com^
-||ytimg.com^$important
 ||ytrot01.page.link
 ||ytrot01.page.link^
 ||ytrot01.page.link^$important
