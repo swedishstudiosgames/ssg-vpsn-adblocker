@@ -54,6 +54,7 @@
 @@||golang.net^
 @@||golang.org^
 @@||gstatic.com^
+@@||gstatic.net^
 @@||hostgator.com^
 @@||hp.com^
 @@||ibm.com^
