@@ -1,6 +1,6 @@
 import platform
 p2=["127.0.0.1 ","0.0.0.0 ","||"]
-s2=["","^","^$important"]
+s2=["^"]
 i1="input.txt"
 o1="output.txt"
 l2= set()
