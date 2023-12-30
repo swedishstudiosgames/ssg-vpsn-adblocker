@@ -4,3 +4,4 @@
 ||ade.googlesyndication.com^
 ||ads.youtube.com^
 ||ad.youtube.com^
+||adgoogle.net^
