@@ -5,3 +5,5 @@
 ||ads.youtube.com^
 ||ad.youtube.com^
 ||adgoogle.net^
+||ads.google.com^
+||adservice.google.com^
