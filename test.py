@@ -1,10 +1,9 @@
 # Import the required modules
-import os
-import urllib.request
+import os,urllib.request
 # Define the input and output file names
-iurl = "https://raw.githubusercontent.com/nickspaargaren/no-google/master/google-domains"
-of1 = "ads.txt"
-of2 = "noads.txt"
+iurl="https://raw.githubusercontent.com/nickspaargaren/no-google/master/google-domains"
+of1="ads.txt"
+of2="noads.txt"
 # Define the prefixes and suffixes for the output lines
 pwa="||" # prefix with ads
 pwo="@@||" # prefix without ads
