@@ -106,7 +106,6 @@
 @@||google.pt^
 @@||google.ro^
 @@||google.rs^
-@@||google.ru^
 @@||google.rw^
 @@||google.sc^
 @@||google.se^
@@ -140,6 +139,7 @@
 @@||golang.org^
 @@||gstatic.com^
 @@||gstatic.net^
+@@||gstatic.org^
 @@||hostgator.com^
 @@||hp.com^
 @@||ibm.com^
