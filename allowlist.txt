@@ -29,7 +29,7 @@
 @@||cloudflare-dns.com^
 @@||coinbase.com^
 @@||crashlytics.com^
-@@||dailymotivation.com^
+@@||dailymotion.com^
 @@||discord.com^
 @@||discord.gg^
 @@||discordapp.com^
