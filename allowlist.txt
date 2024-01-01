@@ -51,7 +51,7 @@
 @@||fbcdn.com^
 @@||fbcdn.net^
 @@||fbsbx.com^
-fbsbx.net^
+@@||fbsbx.net^
 @@||fb.me^
 @@||firebaseio.com^
 @@||fitbit.com^
