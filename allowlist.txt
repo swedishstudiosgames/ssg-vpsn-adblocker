@@ -210,6 +210,7 @@
 @@||nvidia.com^
 @@||office.com^
 @@||one.com^
+@@||one.one^
 @@||opera.com^
 @@||opera-api.com^
 @@||opera.software^
@@ -247,6 +248,7 @@
 @@||sqspcdn.com^
 @@||squarespace.com^
 @@||static-cisco.com^
+@@||steamcommunity.com^
 @@||steampowered.com^
 @@||stripe.com^
 @@||swedishstudiosgames.com^
