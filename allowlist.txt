@@ -47,6 +47,11 @@
 @@||elgiganten.dk^
 @@||elgiganten.se^
 @@||facebook.com^
+@@||facebook.net^
+@@||fbcdn.com^
+@@||fbcdn.net^
+@@||fbsbx.com^
+fbsbx.net^
 @@||fb.me^
 @@||firebaseio.com^
 @@||fitbit.com^
@@ -179,6 +184,7 @@
 @@||letsencrypt.org^
 @@||linode.com^
 @@||live.com^
+@@||messenger.com^
 @@||minecraft.com^
 @@||minecraft.net^
 @@||m.me^
@@ -200,6 +206,7 @@
 @@||no-ip.net^
 @@||noip.com^
 @@||noip.net^
+@@||nordvpn.com^
 @@||nvidia.com^
 @@||office.com^
 @@||one.com^
@@ -251,6 +258,7 @@
 @@||t.co^
 @@||ublockorigin.com^
 @@||ubuntu.com^
+@@||underlords.com^
 @@||valvesoftware.com^^
 @@||vanillacraftnetwork.com^
 @@||vimeo.com^
