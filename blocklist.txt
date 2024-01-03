@@ -1,3 +1,1495 @@
+|| 0.fls.doubleclick.net^
+|| 00.fls.doubleclick.net^
+|| 000.fls.doubleclick.net^
+|| 0000.fls.doubleclick.net^
+|| 00000.fls.doubleclick.net^
+|| 000000.fls.doubleclick.net^
+|| 0000000.fls.doubleclick.net^
+|| 00000000.fls.doubleclick.net^
+|| 000000000.fls.doubleclick.net^
+|| 10.afs.googleadservices.com^
+|| 1000.fls.doubleclick.net^
+|| 10017761.fls.doubleclick.net^
+|| 1003600.fls.doubleclick.net^
+|| 10059400.fls.doubleclick.net^
+|| 10068000.fls.doubleclick.net^
+|| 10074809.fls.doubleclick.net^
+|| 10077000.fls.doubleclick.net^
+|| 10082405.fls.doubleclick.net^
+|| 10094515.fls.doubleclick.net^
+|| 10117223.fls.doubleclick.net^
+|| 10160350.fls.doubleclick.net^
+|| 1016557.fls.doubleclick.net^
+|| 10168703.fls.doubleclick.net^
+|| 10188200.fls.doubleclick.net^
+|| 10210600.fls.doubleclick.net^
+|| 10228400.fls.doubleclick.net^
+|| 10359300.fls.doubleclick.net^
+|| 1268402.fls.doubleclick.net^
+|| 1326154.fls.doubleclick.net^
+|| 1330903.fls.doubleclick.net^
+|| 1435575.fls.doubleclick.net^
+|| 1742177.fls.doubleclick.net^
+|| 18.afs.googleadservices.com^
+|| 2.afs.googleadservices.com^
+|| 2013561.fls.doubleclick.net^
+|| 2196503.fls.doubleclick.net^
+|| 2332696.fls.doubleclick.net^
+|| 2499034.fls.doubleclick.net^
+|| 2507573.fls.doubleclick.net^
+|| 2542116.fls.doubleclick.net^
+|| 2793343.fls.doubleclick.net^
+|| 3130320.fls.doubleclick.net^
+|| 3243857.fls.doubleclick.net^
+|| 3276817.fls.doubleclick.net^
+|| 3501113.fls.doubleclick.net^
+|| 3642305.fls.doubleclick.net^
+|| 3738527.fls.doubleclick.net^
+|| 3765329.fls.doubleclick.net^
+|| 3773523.fls.doubleclick.net^
+|| 3879194.fls.doubleclick.net^
+|| 3941123.fls.doubleclick.net^
+|| 3973258.fls.doubleclick.net^
+|| 3982178.fls.doubleclick.net^
+|| 4.afs.googleadservices.com^
+|| 4053494.fls.doubleclick.net^
+|| 4171764.fls.doubleclick.net^
+|| 4177752.fls.doubleclick.net^
+|| 4191036.fls.doubleclick.net^
+|| 4191748.fls.doubleclick.net^
+|| 4228414.fls.doubleclick.net^
+|| 4235225.fls.doubleclick.net^
+|| 4236808.fls.doubleclick.net^
+|| 4331660.fls.doubleclick.net^
+|| 4338244.fls.doubleclick.net^
+|| 4345210.fls.doubleclick.net^
+|| 4371920.fls.doubleclick.net^
+|| 4375326.fls.doubleclick.net^
+|| 4379742.fls.doubleclick.net^
+|| 4403916.fls.doubleclick.net^
+|| 4487826.fls.doubleclick.net^
+|| 4514783.fls.doubleclick.net^
+|| 4923503.fls.doubleclick.net^
+|| 4942839.fls.doubleclick.net^
+|| 5362399.fls.doubleclick.net^
+|| 5582200.fls.doubleclick.net^
+|| 8210643.fls.doubleclick.net^
+|| 8272590.fls.doubleclick.net^
+|| 8482194.fls.doubleclick.net^
+|| 8522212.fls.doubleclick.net^
+|| 8563004.fls.doubleclick.net^
+|| 8921356.fls.doubleclick.net^
+|| 9309168.fls.doubleclick.net^
+|| a.admob.com^
+|| accounts.doubleclick.net^
+|| ad-ace.doubleclick.net^
+|| ad-apac.doubleclick.net^
+|| ad-creatives-public.commondatastorage.googleapis.com^
+|| ad-emea.doubleclick.net^
+|| ad-g.doubleclick.net^
+|| ad.3au.doubleclick.net^
+|| ad.ac.doubleclick.net^
+|| ad.ae.doubleclick.net^
+|| ad.ar.doubleclick.net^
+|| ad.at.doubleclick.net^
+|| ad.au.doubleclick.net^
+|| ad.aw.doubleclick.net^
+|| ad.ax.doubleclick.net^
+|| ad.be.doubleclick.net^
+|| ad.bg.doubleclick.net^
+|| ad.br.doubleclick.net^
+|| ad.ca.doubleclick.net^
+|| ad.ch.doubleclick.net^
+|| ad.cl.doubleclick.net^
+|| ad.cn.doubleclick.net^
+|| ad.de.doubleclick.net^
+|| ad.dk.doubleclick.net^
+|| ad.doubleclick.com^
+|| ad.doubleclick.net^
+|| ad.ee.doubleclick.net^
+|| ad.eg.doubleclick.net^
+|| ad.es.doubleclick.net^
+|| ad.fi.doubleclick.net^
+|| ad.fr.doubleclick.net^
+|| ad.gr.doubleclick.net^
+|| ad.hk.doubleclick.net^
+|| ad.hr.doubleclick.net^
+|| ad.hu.doubleclick.net^
+|| ad.ie.doubleclick.net^
+|| ad.il.doubleclick.net^
+|| ad.in.doubleclick.net^
+|| ad.it.doubleclick.net^
+|| ad.jp.doubleclick.net^
+|| ad.kr.doubleclick.net^
+|| ad.ma.doubleclick.net^
+|| ad.me.doubleclick.net^
+|| ad.mo.doubleclick.net^
+|| ad.n2434.doubleclick.net^
+|| ad.nl.doubleclick.net^
+|| ad.no.doubleclick.net^
+|| ad.nz.doubleclick.net^
+|| ad.pk.doubleclick.net^
+|| ad.pl.doubleclick.net^
+|| ad.pt.doubleclick.net^
+|| ad.ro.doubleclick.net^
+|| ad.rs.doubleclick.net^
+|| ad.ru.doubleclick.net^
+|| ad.se.doubleclick.net^
+|| ad.sg.doubleclick.net^
+|| ad.si.doubleclick.net^
+|| ad.terra.doubleclick.net^
+|| ad.th.doubleclick.net^
+|| ad.tr.doubleclick.net^
+|| ad.tw.doubleclick.net^
+|| ad.ua.doubleclick.net^
+|| ad.uk.doubleclick.net^
+|| ad.uk.mo.doubleclick.net^
+|| ad.us.doubleclick.net^
+|| ad.ve.doubleclick.net^
+|| ad.youtube.com^
+|| ad.za.doubleclick.net^
+|| ad2.doubleclick.net^
+|| adclick.g.doubleclick.net^
+|| ade.googlesyndication.com^
+|| adgoogle.net^
+|| admanager.google.com^
+|| admob-app-id-1864963202.firebaseio.com^
+|| admob-app-id-6623078720.firebaseio.com^
+|| admob-app-id-7468132501.firebaseio.com^
+|| admob-app-id-8559775202.firebaseio.com^
+|| admob-app-id-9049355141.firebaseio.com^
+|| admob-app-id-9875848161.firebaseio.com^
+|| admob-creative.googleusercontent.com^
+|| admob.biz^
+|| admob.co.kr^
+|| admob.co.nz^
+|| admob.co.uk^
+|| admob.com^
+|| admob.de^
+|| admob.dk^
+|| admob.es^
+|| admob.fi^
+|| admob.fr^
+|| admob.google.com^
+|| admob.gr^
+|| admob.it^
+|| admob.jp^
+|| admob.kr^
+|| admob.mobi^
+|| admob.no^
+|| admob.pt^
+|| admob.sg^
+|| admob.tk^
+|| admob.tw^
+|| admob.vn^
+|| ads-bid.l.doubleclick.net^
+|| ads.admob.com^
+|| ads.cc-dt.com^
+|| ads.cc^
+|| ads.google.com^
+|| ads.googlesyndication.com^
+|| ads.youtube.com^
+|| adsclicker-2.firebaseio.com^
+|| adsdatahub.google.com^
+|| adsense.com^
+|| adsense.google.com^
+|| adservice.google.ac^
+|| adservice.google.ae^
+|| adservice.google.al^
+|| adservice.google.at^
+|| adservice.google.au^
+|| adservice.google.aw^
+|| adservice.google.ax^
+|| adservice.google.az^
+|| adservice.google.be^
+|| adservice.google.bg^
+|| adservice.google.br^
+|| adservice.google.bs^
+|| adservice.google.bt^
+|| adservice.google.by^
+|| adservice.google.ca^
+|| adservice.google.ch^
+|| adservice.google.cl^
+|| adservice.google.co.bw^
+|| adservice.google.co.id^
+|| adservice.google.co.il^
+|| adservice.google.co.in^
+|| adservice.google.co.jp^
+|| adservice.google.co.ke^
+|| adservice.google.co.kr^
+|| adservice.google.co.nz^
+|| adservice.google.co.th^
+|| adservice.google.co.tz^
+|| adservice.google.co.uk^
+|| adservice.google.co.uz^
+|| adservice.google.co.ve^
+|| adservice.google.co.vi^
+|| adservice.google.co.za^
+|| adservice.google.co.zm^
+|| adservice.google.com.au^
+|| adservice.google.com.bh^
+|| adservice.google.com.bn^
+|| adservice.google.com.bo^
+|| adservice.google.com.br^
+|| adservice.google.com.bz^
+|| adservice.google.com.co^
+|| adservice.google.com.cu^
+|| adservice.google.com.cy^
+|| adservice.google.com.eg^
+|| adservice.google.com.et^
+|| adservice.google.com.fj^
+|| adservice.google.com.gh^
+|| adservice.google.com.gi^
+|| adservice.google.com.gt^
+|| adservice.google.com.hk^
+|| adservice.google.com.jm^
+|| adservice.google.com.kh^
+|| adservice.google.com.kw^
+|| adservice.google.com.lb^
+|| adservice.google.com.mm^
+|| adservice.google.com.mt^
+|| adservice.google.com.mx^
+|| adservice.google.com.my^
+|| adservice.google.com.ng^
+|| adservice.google.com.ni^
+|| adservice.google.com.np^
+|| adservice.google.com.om^
+|| adservice.google.com.pa^
+|| adservice.google.com.pe^
+|| adservice.google.com.pg^
+|| adservice.google.com.pr^
+|| adservice.google.com.py^
+|| adservice.google.com.qa^
+|| adservice.google.com.sa^
+|| adservice.google.com.sb^
+|| adservice.google.com.sg^
+|| adservice.google.com.sl^
+|| adservice.google.com.sv^
+|| adservice.google.com.tj^
+|| adservice.google.com.tr^
+|| adservice.google.com.tw^
+|| adservice.google.com.ua^
+|| adservice.google.com.uy^
+|| adservice.google.com.ve^
+|| adservice.google.com.vn^
+|| adservice.google.com^
+|| adservice.google.cv^
+|| adservice.google.cz^
+|| adservice.google.de^
+|| adservice.google.dj^
+|| adservice.google.dk^
+|| adservice.google.dm^
+|| adservice.google.dz^
+|| adservice.google.ee^
+|| adservice.google.es^
+|| adservice.google.eu^
+|| adservice.google.fi^
+|| adservice.google.fm^
+|| adservice.google.fr^
+|| adservice.google.ga^
+|| adservice.google.ge^
+|| adservice.google.gg^
+|| adservice.google.gl^
+|| adservice.google.gm^
+|| adservice.google.gr^
+|| adservice.google.gy^
+|| adservice.google.hn^
+|| adservice.google.hr^
+|| adservice.google.ht^
+|| adservice.google.hu^
+|| adservice.google.ie^
+|| adservice.google.il^
+|| adservice.google.im^
+|| adservice.google.in^
+|| adservice.google.iq^
+|| adservice.google.is^
+|| adservice.google.it^
+|| adservice.google.je^
+|| adservice.google.jo^
+|| adservice.google.jp^
+|| adservice.google.kg^
+|| adservice.google.ki^
+|| adservice.google.kz^
+|| adservice.google.la^
+|| adservice.google.li^
+|| adservice.google.lk^
+|| adservice.google.lt^
+|| adservice.google.lu^
+|| adservice.google.lv^
+|| adservice.google.ma^
+|| adservice.google.md^
+|| adservice.google.me^
+|| adservice.google.mg^
+|| adservice.google.mk^
+|| adservice.google.ml^
+|| adservice.google.mn^
+|| adservice.google.ms^
+|| adservice.google.mu^
+|| adservice.google.mv^
+|| adservice.google.mw^
+|| adservice.google.ne^
+|| adservice.google.nl^
+|| adservice.google.no^
+|| adservice.google.nr^
+|| adservice.google.nu^
+|| adservice.google.pk^
+|| adservice.google.pl^
+|| adservice.google.pn^
+|| adservice.google.ps^
+|| adservice.google.pt^
+|| adservice.google.ro^
+|| adservice.google.rs^
+|| adservice.google.ru^
+|| adservice.google.rw^
+|| adservice.google.sc^
+|| adservice.google.se^
+|| adservice.google.sh^
+|| adservice.google.si^
+|| adservice.google.sk^
+|| adservice.google.sm^
+|| adservice.google.sn^
+|| adservice.google.so^
+|| adservice.google.sr^
+|| adservice.google.st^
+|| adservice.google.td^
+|| adservice.google.tg^
+|| adservice.google.tl^
+|| adservice.google.tm^
+|| adservice.google.tn^
+|| adservice.google.to^
+|| adservice.google.tr^
+|| adservice.google.tt^
+|| adservice.google.tw^
+|| adservice.google.ua^
+|| adservice.google.vg^
+|| adservice.google.ws^
+|| adservices.google.com^
+|| adsettings.google.com^
+|| adssettings.google.com^
+|| adultchat1.page.link^
+|| adups.com^
+|| advertisercommunity.com^
+|| advertisers.doubleclick.com^
+|| advertisersapitest.doubleclick.com^
+|| advisor.google.com^
+|| adwords.com^
+|| adwords.google.com^
+|| adx.g.doubleclick.net^
+|| analytics.admob.com^
+|| api.admob.com^
+|| apps.admob.com^
+|| b.admob.com^
+|| betareportcentral.doubleclick.com^
+|| bid.g.doubleclick.net^
+|| big.g.doubleclick.net^
+|| broadcast.admob.com^
+|| c.admob.com^
+|| c1.vip.sc9.admob.com^
+|| click.comms.doubleclick.com^
+|| clickserver.googleads.com^
+|| clk1.vip.sc9.admob.com^
+|| clk2.vip.sc9.admob.com^
+|| clk3.vip.sc9.admob.com^
+|| cm.g.doubleclick.net^
+|| cpm.admob.com^
+|| cpm1.admob.com^
+|| cpm1.vip.sc9.admob.com^
+|| cpm2.admob.com^
+|| cpm2.vip.sc9.admob.com^
+|| cpm3.admob.com^
+|| cpm3.vip.sc9.admob.com^
+|| creatives.doubleclick.net^
+|| creatoracademy.youtube.com^
+|| dart-ad.l.doubleclick.net^
+|| dart.l.doubleclick.net^
+|| de.advertisercommunity.com^
+|| dep.admob.com^
+|| dfp.doubleclick.net^
+|| displayads-formats.googleusercontent.com^
+|| doubleclick.com^
+|| doubleclick.de^
+|| doubleclick.ne.jp^
+|| doubleclick.net^
+|| doubleclickbygoogle.com^
+|| dp.g.doubleclick.net^
+|| e.admob.com^
+|| ebay.doubleclick.net^
+|| emea.doubleclick.com^
+|| en.advertisercommunity.com^
+|| es.advertisercommunity.com^
+|| farhan-ali-qadri-6af90.firebaseio.com^
+|| fbtest-ad97d.firebaseio.com^
+|| feedads.g.doubleclick.net^
+|| feedads.googleadservices.com^
+|| ff.doubleclick.net^
+|| fls.au.doubleclick.net^
+|| fls.doubleclick.net^
+|| fls.uk.doubleclick.net^
+|| fr.advertisercommunity.com^
+|| g.admob.com^
+|| g.doubleclick.net^
+|| g0.doubleclick.net^
+|| g1.doubleclick.net^
+|| g2.doubleclick.net^
+|| g3.doubleclick.net^
+|| games.admob.com^
+|| gan.doubleclick.net^
+|| ge-0-0-1-edge1.sc9.admob.com^
+|| ge-0-0-43-crs1.sc9.admob.com^
+|| googleads.g.doubleclick.com^
+|| googleads.g.doubleclick.net^
+|| googleads2.g.doubleclick.net^
+|| googleads3.g.doubleclick.net^
+|| googleads4.g.doubleclick.net^
+|| googleads6.g.doubleclick.net^
+|| googleads7.g.doubleclick.net^
+|| googleadservices-cn.com^
+|| googleadservices.co.uk^
+|| googleadservices.com^
+|| googleadservices.org^
+|| googleadservices.ru^
+|| googleadsserving.cn^
+|| googletraveladservices.com^
+|| googlevads-cn.com^
+|| gw.admob.com^
+|| help.doubleclick.com^
+|| id.advertisercommunity.com^
+|| image.comms.doubleclick.com^
+|| imageads.googleadservices.com^
+|| ir.doubleclick.net^
+|| it.advertisercommunity.com^
+|| iv.doubleclick.net^
+|| j.admob.com^
+|| ja.advertisercommunity.com^
+|| jp.admob.com^
+|| k.admob.com^
+|| l.admob.com^
+|| l.doubleclick.net^
+|| learn.doubleclick.com^
+|| logincrc.doubleclick.com^
+|| m.admob.com^
+|| m.doubleclick.com^
+|| m.doubleclick.net^
+|| ma.googleads.g.doubleclick.net^
+|| mail-ads.google.com^
+|| media.admob.com^
+|| mediavisor.doubleclick.com^
+|| mediavisor.doubleclick.net^
+|| metrics.admob.com^
+|| mimageads.googleadservices.com^
+|| mimageads1.googleadservices.com^
+|| mimageads2.googleadservices.com^
+|| mimageads3.googleadservices.com^
+|| mimageads4.googleadservices.com^
+|| mimageads5.googleadservices.com^
+|| mimageads6.googleadservices.com^
+|| mimageads7.googleadservices.com^
+|| mimageads8.googleadservices.com^
+|| mimageads9.googleadservices.com^
+|| mm.admob.com^
+|| mm1.vip.sc1.admob.com^
+|| mm1.vip.sc9.admob.com^
+|| mm104.sc9.admob.com^
+|| mmv.admob.com^
+|| mobile-displayads-uk.l.doubleclick.net^
+|| mobile-displayads.l.doubleclick.net^
+|| motifcdn.doubleclick.net^
+|| motifcdn2.doubleclick.net^
+|| n.admob.com^
+|| n4052ad.doubleclick.net^
+|| n4061ad.hk.doubleclick.net^
+|| n4061ad.jp.doubleclick.net^
+|| n4403ad.doubleclick.net^
+|| n479ad.doubleclick.net^
+|| network.admob.com^
+|| ns2.doubleclick.com^
+|| o.admob.com^
+|| p.admob.com^
+|| p1.vip.sc9.admob.com^
+|| pagead.googlesyndication.com^
+|| pagead.l.doubleclick.net^
+|| pagead0.googlesyndication.com^
+|| pagead1.googlesyndication.com^
+|| pagead2.googleadservices.com^
+|| pagead2.googlesyndication.com^
+|| pagead3.googlesyndication.com^
+|| pagead46.googlesyndication.com^
+|| pagead46.i.doubleclick.net^
+|| pagead46.l.doubleclick.net^
+|| paidadmusicplayer1.firebaseio.com^
+|| paix1.sc1.admob.com^
+|| partner.googleadservices.com^
+|| partnerad.l.doubleclick.net^
+|| paypalssl.doubleclick.net^
+|| pl.advertisercommunity.com^
+|| pt.admob.com^
+|| pt.advertisercommunity.com^
+|| pubads.g.doubleclick.net^
+|| q.admob.com^
+|| r.admob.com^
+|| rd.intl.doubleclick.net^
+|| reportcentral.doubleclick.com^
+|| reports.doubleclick.com^
+|| rich-media-dynamic-ads-api.l.doubleclick.net^
+|| rmd.admob.com^
+|| ru.admob.com^
+|| ru.advertisercommunity.com^
+|| s.admob.com^
+|| s0.doubleclick.net^
+|| s2.video.doubleclick.net^
+|| sc1.admob.com^
+|| sc9.admob.com^
+|| search.doubleclick.com^
+|| secureframe.doubleclick.net^
+|| securepubads.g.doubleclick.net^
+|| smtp.admob.com^
+|| smtp2.admob.com^
+|| ssl.doubleclick.com^
+|| stage.advertisercommunity.com^
+|| static.doubleclick.com^
+|| static.doubleclick.net^
+|| static.doubleclick.netnod^
+|| static.googleadsserving.cn^
+|| stats.g.doubleclick.net^
+|| stats.l.doubleclick.net^
+|| studio.doubleclick.com^
+|| studioapi.doubleclick.com^
+|| survey.g.doubleclick.net^
+|| team.doubleclick.com^
+|| th.advertisercommunity.com^
+|| twx.doubleclick.net^
+|| tx102.sc9.admob.com^
+|| tx103.sc9.admob.com^
+|| u.admob.com^
+|| ukr.admob.com^
+|| undefined.fls.doubleclick.net^
+|| v.admob.com^
+|| vi.advertisercommunity.com^
+|| video-ad-stats.googlesyndication.com^
+|| view.comms.doubleclick.com^
+|| vip.sc9.admob.com^
+|| vodads.g.doubleclick.net^
+|| w.admob.com^
+|| wap.admob.com^
+|| waps.admob.com^
+|| wendy.admob.com^
+|| www.adgoogle.net^
+|| www.admin.ft.nest.com^
+|| www.admin.home.ft.nest.com^
+|| www.admin.nest.com^
+|| www.admin.store.nest.com^
+|| www.admob.com^
+|| www.ads.google.com^
+|| www.advertisercommunity.com^
+|| www.adwords.google.com^
+|| www.de.advertisercommunity.com^
+|| www.doubleclick.com^
+|| www.doubleclick.ne.jp^
+|| www.doubleclick.net^
+|| www.doubleclickbygoogle.com^
+|| www.en.advertisercommunity.com^
+|| www.es.advertisercommunity.com^
+|| www.fr.advertisercommunity.com^
+|| www.googleads.g.doubleclick.com^
+|| www.googleadservices.com^
+|| www.it.advertisercommunity.com^
+|| www.ja.advertisercommunity.com^
+|| www.pagead2.googlesyndication.com^
+|| www.pl.advertisercommunity.com^
+|| www.pt.advertisercommunity.com^
+|| www.ru.advertisercommunity.com^
+|| www.zh.advertisercommunity.com^
+|| www1.doubleclick.net^
+|| www2.doubleclick.com^
+|| www2.doubleclick.net^
+|| www3.doubleclick.com^
+|| www3.doubleclick.net^
+|| x.admob.com^
+|| y.admob.com^
+|| z.admob.com^
+|| zh.advertisercommunity.com^
+|| zhcn.admob.com^
+|| zhru.admob.com^
+|| zhtw.admob.com^
+|| zhuk.admob.com^
+||academico.google.com^
+||accounts.doubleclick.net^
+||ad-creatives-public.commondatastorage.googleapis.com^
+||ad.youtube.com^
+||ade.googlesyndication.com^
+||adgoogle.net^
+||admanager.google.com^
+||admob-app-id-1864963202.firebaseio.com^
+||admob-app-id-6623078720.firebaseio.com^
+||admob-app-id-7468132501.firebaseio.com^
+||admob-app-id-8559775202.firebaseio.com^
+||admob-app-id-9049355141.firebaseio.com^
+||admob-app-id-9875848161.firebaseio.com^
+||admob-creative.googleusercontent.com^
+||admob.biz^
+||admob.co.kr^
+||admob.co.nz^
+||admob.co.uk^
+||admob.com^
+||admob.de^
+||admob.dk^
+||admob.es^
+||admob.fi^
+||admob.fr^
+||admob.google.com^
+||admob.gr^
+||admob.it^
+||admob.jp^
+||admob.kr^
+||admob.mobi^
+||admob.no^
+||admob.pt^
+||admob.sg^
+||admob.tk^
+||admob.tw^
+||admob.vn^
+||ads-bid.l.doubleclick.net^
+||ads.admob.com^
+||ads.cc-dt.com^
+||ads.cc^
+||ads.google.com^
+||ads.googlesyndication.com^
+||ads.youtube.com^
+||adsclicker-2.firebaseio.com^
+||adsdatahub.google.com^
+||adsense.com^
+||adsense.google.com^
+||adservice.google.ac^
+||adservice.google.ae^
+||adservice.google.al^
+||adservice.google.at^
+||adservice.google.au^
+||adservice.google.aw^
+||adservice.google.ax^
+||adservice.google.az^
+||adservice.google.be^
+||adservice.google.bg^
+||adservice.google.br^
+||adservice.google.bs^
+||adservice.google.bt^
+||adservice.google.by^
+||adservice.google.ca^
+||adservice.google.ch^
+||adservice.google.cl^
+||adservice.google.co.bw^
+||adservice.google.co.id^
+||adservice.google.co.il^
+||adservice.google.co.in^
+||adservice.google.co.jp^
+||adservice.google.co.ke^
+||adservice.google.co.kr^
+||adservice.google.co.nz^
+||adservice.google.co.th^
+||adservice.google.co.tz^
+||adservice.google.co.uk^
+||adservice.google.co.uz^
+||adservice.google.co.ve^
+||adservice.google.co.vi^
+||adservice.google.co.za^
+||adservice.google.co.zm^
+||adservice.google.com.au^
+||adservice.google.com.bh^
+||adservice.google.com.bn^
+||adservice.google.com.bo^
+||adservice.google.com.br^
+||adservice.google.com.bz^
+||adservice.google.com.co^
+||adservice.google.com.cu^
+||adservice.google.com.cy^
+||adservice.google.com.eg^
+||adservice.google.com.et^
+||adservice.google.com.fj^
+||adservice.google.com.gh^
+||adservice.google.com.gi^
+||adservice.google.com.gt^
+||adservice.google.com.hk^
+||adservice.google.com.jm^
+||adservice.google.com.kh^
+||adservice.google.com.kw^
+||adservice.google.com.lb^
+||adservice.google.com.mm^
+||adservice.google.com.mt^
+||adservice.google.com.mx^
+||adservice.google.com.my^
+||adservice.google.com.ng^
+||adservice.google.com.ni^
+||adservice.google.com.np^
+||adservice.google.com.om^
+||adservice.google.com.pa^
+||adservice.google.com.pe^
+||adservice.google.com.pg^
+||adservice.google.com.pr^
+||adservice.google.com.py^
+||adservice.google.com.qa^
+||adservice.google.com.sa^
+||adservice.google.com.sb^
+||adservice.google.com.sg^
+||adservice.google.com.sl^
+||adservice.google.com.sv^
+||adservice.google.com.tj^
+||adservice.google.com.tr^
+||adservice.google.com.tw^
+||adservice.google.com.ua^
+||adservice.google.com.uy^
+||adservice.google.com.ve^
+||adservice.google.com.vn^
+||adservice.google.com^
+||adservice.google.cv^
+||adservice.google.cz^
+||adservice.google.de^
+||adservice.google.dj^
+||adservice.google.dk^
+||adservice.google.dm^
+||adservice.google.dz^
+||adservice.google.ee^
+||adservice.google.es^
+||adservice.google.eu^
+||adservice.google.fi^
+||adservice.google.fm^
+||adservice.google.fr^
+||adservice.google.ga^
+||adservice.google.ge^
+||adservice.google.gg^
+||adservice.google.gl^
+||adservice.google.gm^
+||adservice.google.gr^
+||adservice.google.gy^
+||adservice.google.hn^
+||adservice.google.hr^
+||adservice.google.ht^
+||adservice.google.hu^
+||adservice.google.ie^
+||adservice.google.il^
+||adservice.google.im^
+||adservice.google.in^
+||adservice.google.iq^
+||adservice.google.is^
+||adservice.google.it^
+||adservice.google.je^
+||adservice.google.jo^
+||adservice.google.jp^
+||adservice.google.kg^
+||adservice.google.ki^
+||adservice.google.kz^
+||adservice.google.la^
+||adservice.google.li^
+||adservice.google.lk^
+||adservice.google.lt^
+||adservice.google.lu^
+||adservice.google.lv^
+||adservice.google.ma^
+||adservice.google.md^
+||adservice.google.me^
+||adservice.google.mg^
+||adservice.google.mk^
+||adservice.google.ml^
+||adservice.google.mn^
+||adservice.google.ms^
+||adservice.google.mu^
+||adservice.google.mv^
+||adservice.google.mw^
+||adservice.google.ne^
+||adservice.google.nl^
+||adservice.google.no^
+||adservice.google.nr^
+||adservice.google.nu^
+||adservice.google.pk^
+||adservice.google.pl^
+||adservice.google.pn^
+||adservice.google.ps^
+||adservice.google.pt^
+||adservice.google.ro^
+||adservice.google.rs^
+||adservice.google.ru^
+||adservice.google.rw^
+||adservice.google.sc^
+||adservice.google.se^
+||adservice.google.sh^
+||adservice.google.si^
+||adservice.google.sk^
+||adservice.google.sm^
+||adservice.google.sn^
+||adservice.google.so^
+||adservice.google.sr^
+||adservice.google.st^
+||adservice.google.td^
+||adservice.google.tg^
+||adservice.google.tl^
+||adservice.google.tm^
+||adservice.google.tn^
+||adservice.google.to^
+||adservice.google.tr^
+||adservice.google.tt^
+||adservice.google.tw^
+||adservice.google.ua^
+||adservice.google.vg^
+||adservice.google.ws^
+||adservices.google.com^
+||adsettings.google.com^
+||adssettings.google.com^
+||advertisercommunity.com^
+||advisor.google.com^
+||adwords.com^
+||adwords.google.com^
+||displayads-formats.googleusercontent.com^
+||doubleclick.com^
+||doubleclick.de^
+||doubleclick.ne.jp^
+||doubleclick.net^
+||doubleclick.netnod^
+||doubleclickbygoogle.com^
+||googleads.com^
+||googleadservices-cn.com^
+||googleadservices.co.uk^
+||googleadservices.com^
+||googleadservices.org^
+||googleadservices.ru^
+||googleadsserving.cn^
+||googletraveladservices.com^
+||googlevads-cn.com^
+||imageads.googleadservices.com^
+||mail-ads.google.com^
+||mimageads.googleadservices.com^
+||mimageads1.googleadservices.com^
+||mimageads2.googleadservices.com^
+||mimageads3.googleadservices.com^
+||mimageads4.googleadservices.com^
+||mimageads5.googleadservices.com^
+||mimageads6.googleadservices.com^
+||mimageads7.googleadservices.com^
+||mimageads8.googleadservices.com^
+||mimageads9.googleadservices.com^
+||pagead.googlesyndication.com^
+||pagead0.googlesyndication.com^
+||pagead1.googlesyndication.com^
+||pagead2.googleadservices.com^
+||pagead2.googlesyndication.com^
+||pagead3.googlesyndication.com^
+||pagead46.googlesyndication.com^
+||paidadmusicplayer1.firebaseio.com^
+||radio-ad381.firebaseio.com^
+||video-ad-stats.googlesyndication.com^
+
+
+|| 0.fls.doubleclick.net^
+|| 00.fls.doubleclick.net^
+|| 000.fls.doubleclick.net^
+|| 0000.fls.doubleclick.net^
+|| 00000.fls.doubleclick.net^
+|| 000000.fls.doubleclick.net^
+|| 0000000.fls.doubleclick.net^
+|| 00000000.fls.doubleclick.net^
+|| 000000000.fls.doubleclick.net^
+|| 10.afs.googleadservices.com^
+|| 1000.fls.doubleclick.net^
+|| 10017761.fls.doubleclick.net^
+|| 1003600.fls.doubleclick.net^
+|| 10059400.fls.doubleclick.net^
+|| 10068000.fls.doubleclick.net^
+|| 10074809.fls.doubleclick.net^
+|| 10077000.fls.doubleclick.net^
+|| 10082405.fls.doubleclick.net^
+|| 10094515.fls.doubleclick.net^
+|| 10117223.fls.doubleclick.net^
+|| 10160350.fls.doubleclick.net^
+|| 1016557.fls.doubleclick.net^
+|| 10168703.fls.doubleclick.net^
+|| 10188200.fls.doubleclick.net^
+|| 10210600.fls.doubleclick.net^
+|| 10228400.fls.doubleclick.net^
+|| 10359300.fls.doubleclick.net^
+|| 1268402.fls.doubleclick.net^
+|| 1326154.fls.doubleclick.net^
+|| 1330903.fls.doubleclick.net^
+|| 1435575.fls.doubleclick.net^
+|| 1742177.fls.doubleclick.net^
+|| 18.afs.googleadservices.com^
+|| 2.afs.googleadservices.com^
+|| 2013561.fls.doubleclick.net^
+|| 2196503.fls.doubleclick.net^
+|| 2332696.fls.doubleclick.net^
+|| 2499034.fls.doubleclick.net^
+|| 2507573.fls.doubleclick.net^
+|| 2542116.fls.doubleclick.net^
+|| 2793343.fls.doubleclick.net^
+|| 3130320.fls.doubleclick.net^
+|| 3243857.fls.doubleclick.net^
+|| 3276817.fls.doubleclick.net^
+|| 3501113.fls.doubleclick.net^
+|| 3642305.fls.doubleclick.net^
+|| 3738527.fls.doubleclick.net^
+|| 3765329.fls.doubleclick.net^
+|| 3773523.fls.doubleclick.net^
+|| 3879194.fls.doubleclick.net^
+|| 3941123.fls.doubleclick.net^
+|| 3973258.fls.doubleclick.net^
+|| 3982178.fls.doubleclick.net^
+|| 4.afs.googleadservices.com^
+|| 4053494.fls.doubleclick.net^
+|| 4171764.fls.doubleclick.net^
+|| 4177752.fls.doubleclick.net^
+|| 4191036.fls.doubleclick.net^
+|| 4191748.fls.doubleclick.net^
+|| 4228414.fls.doubleclick.net^
+|| 4235225.fls.doubleclick.net^
+|| 4236808.fls.doubleclick.net^
+|| 4331660.fls.doubleclick.net^
+|| 4338244.fls.doubleclick.net^
+|| 4345210.fls.doubleclick.net^
+|| 4371920.fls.doubleclick.net^
+|| 4375326.fls.doubleclick.net^
+|| 4379742.fls.doubleclick.net^
+|| 4403916.fls.doubleclick.net^
+|| 4487826.fls.doubleclick.net^
+|| 4514783.fls.doubleclick.net^
+|| 4923503.fls.doubleclick.net^
+|| 4942839.fls.doubleclick.net^
+|| 5362399.fls.doubleclick.net^
+|| 5582200.fls.doubleclick.net^
+|| 8210643.fls.doubleclick.net^
+|| 8272590.fls.doubleclick.net^
+|| 8482194.fls.doubleclick.net^
+|| 8522212.fls.doubleclick.net^
+|| 8563004.fls.doubleclick.net^
+|| 8921356.fls.doubleclick.net^
+|| 9309168.fls.doubleclick.net^
+|| a.admob.com^
+|| accounts.doubleclick.net^
+|| ad-ace.doubleclick.net^
+|| ad-apac.doubleclick.net^
+|| ad-creatives-public.commondatastorage.googleapis.com^
+|| ad-emea.doubleclick.net^
+|| ad-g.doubleclick.net^
+|| ad.3au.doubleclick.net^
+|| ad.ac.doubleclick.net^
+|| ad.ae.doubleclick.net^
+|| ad.ar.doubleclick.net^
+|| ad.at.doubleclick.net^
+|| ad.au.doubleclick.net^
+|| ad.aw.doubleclick.net^
+|| ad.ax.doubleclick.net^
+|| ad.be.doubleclick.net^
+|| ad.bg.doubleclick.net^
+|| ad.br.doubleclick.net^
+|| ad.ca.doubleclick.net^
+|| ad.ch.doubleclick.net^
+|| ad.cl.doubleclick.net^
+|| ad.cn.doubleclick.net^
+|| ad.de.doubleclick.net^
+|| ad.dk.doubleclick.net^
+|| ad.doubleclick.com^
+|| ad.doubleclick.net^
+|| ad.ee.doubleclick.net^
+|| ad.eg.doubleclick.net^
+|| ad.es.doubleclick.net^
+|| ad.fi.doubleclick.net^
+|| ad.fr.doubleclick.net^
+|| ad.gr.doubleclick.net^
+|| ad.hk.doubleclick.net^
+|| ad.hr.doubleclick.net^
+|| ad.hu.doubleclick.net^
+|| ad.ie.doubleclick.net^
+|| ad.il.doubleclick.net^
+|| ad.in.doubleclick.net^
+|| ad.it.doubleclick.net^
+|| ad.jp.doubleclick.net^
+|| ad.kr.doubleclick.net^
+|| ad.ma.doubleclick.net^
+|| ad.me.doubleclick.net^
+|| ad.mo.doubleclick.net^
+|| ad.n2434.doubleclick.net^
+|| ad.nl.doubleclick.net^
+|| ad.no.doubleclick.net^
+|| ad.nz.doubleclick.net^
+|| ad.pk.doubleclick.net^
+|| ad.pl.doubleclick.net^
+|| ad.pt.doubleclick.net^
+|| ad.ro.doubleclick.net^
+|| ad.rs.doubleclick.net^
+|| ad.ru.doubleclick.net^
+|| ad.se.doubleclick.net^
+|| ad.sg.doubleclick.net^
+|| ad.si.doubleclick.net^
+|| ad.terra.doubleclick.net^
+|| ad.th.doubleclick.net^
+|| ad.tr.doubleclick.net^
+|| ad.tw.doubleclick.net^
+|| ad.ua.doubleclick.net^
+|| ad.uk.doubleclick.net^
+|| ad.uk.mo.doubleclick.net^
+|| ad.us.doubleclick.net^
+|| ad.ve.doubleclick.net^
+|| ad.youtube.com^
+|| ad.za.doubleclick.net^
+|| ad2.doubleclick.net^
+|| adclick.g.doubleclick.net^
+|| ade.googlesyndication.com^
+|| adgoogle.net^
+|| admanager.google.com^
+|| admob-app-id-1864963202.firebaseio.com^
+|| admob-app-id-6623078720.firebaseio.com^
+|| admob-app-id-7468132501.firebaseio.com^
+|| admob-app-id-8559775202.firebaseio.com^
+|| admob-app-id-9049355141.firebaseio.com^
+|| admob-app-id-9875848161.firebaseio.com^
+|| admob-creative.googleusercontent.com^
+|| admob.biz^
+|| admob.co.kr^
+|| admob.co.nz^
+|| admob.co.uk^
+|| admob.com^
+|| admob.de^
+|| admob.dk^
+|| admob.es^
+|| admob.fi^
+|| admob.fr^
+|| admob.google.com^
+|| admob.gr^
+|| admob.it^
+|| admob.jp^
+|| admob.kr^
+|| admob.mobi^
+|| admob.no^
+|| admob.pt^
+|| admob.sg^
+|| admob.tk^
+|| admob.tw^
+|| admob.vn^
+|| ads-bid.l.doubleclick.net^
+|| ads.admob.com^
+|| ads.cc-dt.com^
+|| ads.cc^
+|| ads.google.com^
+|| ads.googlesyndication.com^
+|| ads.youtube.com^
+|| adsclicker-2.firebaseio.com^
+|| adsdatahub.google.com^
+|| adsense.com^
+|| adsense.google.com^
+|| adservice.google.ac^
+|| adservice.google.ae^
+|| adservice.google.al^
+|| adservice.google.at^
+|| adservice.google.au^
+|| adservice.google.aw^
+|| adservice.google.ax^
+|| adservice.google.az^
+|| adservice.google.be^
+|| adservice.google.bg^
+|| adservice.google.br^
+|| adservice.google.bs^
+|| adservice.google.bt^
+|| adservice.google.by^
+|| adservice.google.ca^
+|| adservice.google.ch^
+|| adservice.google.cl^
+|| adservice.google.co.bw^
+|| adservice.google.co.id^
+|| adservice.google.co.il^
+|| adservice.google.co.in^
+|| adservice.google.co.jp^
+|| adservice.google.co.ke^
+|| adservice.google.co.kr^
+|| adservice.google.co.nz^
+|| adservice.google.co.th^
+|| adservice.google.co.tz^
+|| adservice.google.co.uk^
+|| adservice.google.co.uz^
+|| adservice.google.co.ve^
+|| adservice.google.co.vi^
+|| adservice.google.co.za^
+|| adservice.google.co.zm^
+|| adservice.google.com.au^
+|| adservice.google.com.bh^
+|| adservice.google.com.bn^
+|| adservice.google.com.bo^
+|| adservice.google.com.br^
+|| adservice.google.com.bz^
+|| adservice.google.com.co^
+|| adservice.google.com.cu^
+|| adservice.google.com.cy^
+|| adservice.google.com.eg^
+|| adservice.google.com.et^
+|| adservice.google.com.fj^
+|| adservice.google.com.gh^
+|| adservice.google.com.gi^
+|| adservice.google.com.gt^
+|| adservice.google.com.hk^
+|| adservice.google.com.jm^
+|| adservice.google.com.kh^
+|| adservice.google.com.kw^
+|| adservice.google.com.lb^
+|| adservice.google.com.mm^
+|| adservice.google.com.mt^
+|| adservice.google.com.mx^
+|| adservice.google.com.my^
+|| adservice.google.com.ng^
+|| adservice.google.com.ni^
+|| adservice.google.com.np^
+|| adservice.google.com.om^
+|| adservice.google.com.pa^
+|| adservice.google.com.pe^
+|| adservice.google.com.pg^
+|| adservice.google.com.pr^
+|| adservice.google.com.py^
+|| adservice.google.com.qa^
+|| adservice.google.com.sa^
+|| adservice.google.com.sb^
+|| adservice.google.com.sg^
+|| adservice.google.com.sl^
+|| adservice.google.com.sv^
+|| adservice.google.com.tj^
+|| adservice.google.com.tr^
+|| adservice.google.com.tw^
+|| adservice.google.com.ua^
+|| adservice.google.com.uy^
+|| adservice.google.com.ve^
+|| adservice.google.com.vn^
+|| adservice.google.com^
+|| adservice.google.cv^
+|| adservice.google.cz^
+|| adservice.google.de^
+|| adservice.google.dj^
+|| adservice.google.dk^
+|| adservice.google.dm^
+|| adservice.google.dz^
+|| adservice.google.ee^
+|| adservice.google.es^
+|| adservice.google.eu^
+|| adservice.google.fi^
+|| adservice.google.fm^
+|| adservice.google.fr^
+|| adservice.google.ga^
+|| adservice.google.ge^
+|| adservice.google.gg^
+|| adservice.google.gl^
+|| adservice.google.gm^
+|| adservice.google.gr^
+|| adservice.google.gy^
+|| adservice.google.hn^
+|| adservice.google.hr^
+|| adservice.google.ht^
+|| adservice.google.hu^
+|| adservice.google.ie^
+|| adservice.google.il^
+|| adservice.google.im^
+|| adservice.google.in^
+|| adservice.google.iq^
+|| adservice.google.is^
+|| adservice.google.it^
+|| adservice.google.je^
+|| adservice.google.jo^
+|| adservice.google.jp^
+|| adservice.google.kg^
+|| adservice.google.ki^
+|| adservice.google.kz^
+|| adservice.google.la^
+|| adservice.google.li^
+|| adservice.google.lk^
+|| adservice.google.lt^
+|| adservice.google.lu^
+|| adservice.google.lv^
+|| adservice.google.ma^
+|| adservice.google.md^
+|| adservice.google.me^
+|| adservice.google.mg^
+|| adservice.google.mk^
+|| adservice.google.ml^
+|| adservice.google.mn^
+|| adservice.google.ms^
+|| adservice.google.mu^
+|| adservice.google.mv^
+|| adservice.google.mw^
+|| adservice.google.ne^
+|| adservice.google.nl^
+|| adservice.google.no^
+|| adservice.google.nr^
+|| adservice.google.nu^
+|| adservice.google.pk^
+|| adservice.google.pl^
+|| adservice.google.pn^
+|| adservice.google.ps^
+|| adservice.google.pt^
+|| adservice.google.ro^
+|| adservice.google.rs^
+|| adservice.google.ru^
+|| adservice.google.rw^
+|| adservice.google.sc^
+|| adservice.google.se^
+|| adservice.google.sh^
+|| adservice.google.si^
+|| adservice.google.sk^
+|| adservice.google.sm^
+|| adservice.google.sn^
+|| adservice.google.so^
+|| adservice.google.sr^
+|| adservice.google.st^
+|| adservice.google.td^
+|| adservice.google.tg^
+|| adservice.google.tl^
+|| adservice.google.tm^
+|| adservice.google.tn^
+|| adservice.google.to^
+|| adservice.google.tr^
+|| adservice.google.tt^
+|| adservice.google.tw^
+|| adservice.google.ua^
+|| adservice.google.vg^
+|| adservice.google.ws^
+|| adservices.google.com^
+|| adsettings.google.com^
+|| adssettings.google.com^
+|| adultchat1.page.link^
+|| adups.com^
+|| advertisercommunity.com^
+|| advertisers.doubleclick.com^
+|| advertisersapitest.doubleclick.com^
+|| advisor.google.com^
+|| adwords.com^
+|| adwords.google.com^
+|| adx.g.doubleclick.net^
+|| analytics.admob.com^
+|| api.admob.com^
+|| apps.admob.com^
+|| b.admob.com^
+|| betareportcentral.doubleclick.com^
+|| bid.g.doubleclick.net^
+|| big.g.doubleclick.net^
+|| broadcast.admob.com^
+|| c.admob.com^
+|| c1.vip.sc9.admob.com^
+|| click.comms.doubleclick.com^
+|| clickserver.googleads.com^
+|| clk1.vip.sc9.admob.com^
+|| clk2.vip.sc9.admob.com^
+|| clk3.vip.sc9.admob.com^
+|| cm.g.doubleclick.net^
+|| cpm.admob.com^
+|| cpm1.admob.com^
+|| cpm1.vip.sc9.admob.com^
+|| cpm2.admob.com^
+|| cpm2.vip.sc9.admob.com^
+|| cpm3.admob.com^
+|| cpm3.vip.sc9.admob.com^
+|| creatives.doubleclick.net^
+|| creatoracademy.youtube.com^
+|| dart-ad.l.doubleclick.net^
+|| dart.l.doubleclick.net^
+|| de.advertisercommunity.com^
+|| dep.admob.com^
+|| dfp.doubleclick.net^
+|| displayads-formats.googleusercontent.com^
+|| doubleclick.com^
+|| doubleclick.de^
+|| doubleclick.ne.jp^
+|| doubleclick.net^
+|| doubleclickbygoogle.com^
+|| dp.g.doubleclick.net^
+|| e.admob.com^
+|| ebay.doubleclick.net^
+|| emea.doubleclick.com^
+|| en.advertisercommunity.com^
+|| es.advertisercommunity.com^
+|| farhan-ali-qadri-6af90.firebaseio.com^
+|| fbtest-ad97d.firebaseio.com^
+|| feedads.g.doubleclick.net^
+|| feedads.googleadservices.com^
+|| ff.doubleclick.net^
+|| fls.au.doubleclick.net^
+|| fls.doubleclick.net^
+|| fls.uk.doubleclick.net^
+|| fr.advertisercommunity.com^
+|| g.admob.com^
+|| g.doubleclick.net^
+|| g0.doubleclick.net^
+|| g1.doubleclick.net^
+|| g2.doubleclick.net^
+|| g3.doubleclick.net^
+|| games.admob.com^
+|| gan.doubleclick.net^
+|| ge-0-0-1-edge1.sc9.admob.com^
+|| ge-0-0-43-crs1.sc9.admob.com^
+|| googleads.g.doubleclick.com^
+|| googleads.g.doubleclick.net^
+|| googleads2.g.doubleclick.net^
+|| googleads3.g.doubleclick.net^
+|| googleads4.g.doubleclick.net^
+|| googleads6.g.doubleclick.net^
+|| googleads7.g.doubleclick.net^
+|| googleadservices-cn.com^
+|| googleadservices.co.uk^
+|| googleadservices.com^
+|| googleadservices.org^
+|| googleadservices.ru^
+|| googleadsserving.cn^
+|| googletraveladservices.com^
+|| googlevads-cn.com^
+|| gw.admob.com^
+|| help.doubleclick.com^
+|| id.advertisercommunity.com^
+|| image.comms.doubleclick.com^
+|| imageads.googleadservices.com^
+|| ir.doubleclick.net^
+|| it.advertisercommunity.com^
+|| iv.doubleclick.net^
+|| j.admob.com^
+|| ja.advertisercommunity.com^
+|| jp.admob.com^
+|| k.admob.com^
+|| l.admob.com^
+|| l.doubleclick.net^
+|| learn.doubleclick.com^
+|| logincrc.doubleclick.com^
+|| m.admob.com^
+|| m.doubleclick.com^
+|| m.doubleclick.net^
+|| ma.googleads.g.doubleclick.net^
+|| mail-ads.google.com^
+|| media.admob.com^
+|| mediavisor.doubleclick.com^
+|| mediavisor.doubleclick.net^
+|| metrics.admob.com^
+|| mimageads.googleadservices.com^
+|| mimageads1.googleadservices.com^
+|| mimageads2.googleadservices.com^
+|| mimageads3.googleadservices.com^
+|| mimageads4.googleadservices.com^
+|| mimageads5.googleadservices.com^
+|| mimageads6.googleadservices.com^
+|| mimageads7.googleadservices.com^
+|| mimageads8.googleadservices.com^
+|| mimageads9.googleadservices.com^
+|| mm.admob.com^
+|| mm1.vip.sc1.admob.com^
+|| mm1.vip.sc9.admob.com^
+|| mm104.sc9.admob.com^
+|| mmv.admob.com^
+|| mobile-displayads-uk.l.doubleclick.net^
+|| mobile-displayads.l.doubleclick.net^
+|| motifcdn.doubleclick.net^
+|| motifcdn2.doubleclick.net^
+|| n.admob.com^
+|| n4052ad.doubleclick.net^
+|| n4061ad.hk.doubleclick.net^
+|| n4061ad.jp.doubleclick.net^
+|| n4403ad.doubleclick.net^
+|| n479ad.doubleclick.net^
+|| network.admob.com^
+|| ns2.doubleclick.com^
+|| o.admob.com^
+|| p.admob.com^
+|| p1.vip.sc9.admob.com^
+|| pagead.googlesyndication.com^
+|| pagead.l.doubleclick.net^
+|| pagead0.googlesyndication.com^
+|| pagead1.googlesyndication.com^
+|| pagead2.googleadservices.com^
+|| pagead2.googlesyndication.com^
+|| pagead3.googlesyndication.com^
+|| pagead46.googlesyndication.com^
+|| pagead46.i.doubleclick.net^
+|| pagead46.l.doubleclick.net^
+|| paidadmusicplayer1.firebaseio.com^
+|| paix1.sc1.admob.com^
+|| partner.googleadservices.com^
+|| partnerad.l.doubleclick.net^
+|| paypalssl.doubleclick.net^
+|| pl.advertisercommunity.com^
+|| pt.admob.com^
+|| pt.advertisercommunity.com^
+|| pubads.g.doubleclick.net^
+|| q.admob.com^
+|| r.admob.com^
+|| rd.intl.doubleclick.net^
+|| reportcentral.doubleclick.com^
+|| reports.doubleclick.com^
+|| rich-media-dynamic-ads-api.l.doubleclick.net^
+|| rmd.admob.com^
+|| ru.admob.com^
+|| ru.advertisercommunity.com^
+|| s.admob.com^
+|| s0.doubleclick.net^
+|| s2.video.doubleclick.net^
+|| sc1.admob.com^
+|| sc9.admob.com^
+|| search.doubleclick.com^
+|| secureframe.doubleclick.net^
+|| securepubads.g.doubleclick.net^
+|| smtp.admob.com^
+|| smtp2.admob.com^
+|| ssl.doubleclick.com^
+|| stage.advertisercommunity.com^
+|| static.doubleclick.com^
+|| static.doubleclick.net^
+|| static.doubleclick.netnod^
+|| static.googleadsserving.cn^
+|| stats.g.doubleclick.net^
+|| stats.l.doubleclick.net^
+|| studio.doubleclick.com^
+|| studioapi.doubleclick.com^
+|| survey.g.doubleclick.net^
+|| team.doubleclick.com^
+|| th.advertisercommunity.com^
+|| twx.doubleclick.net^
+|| tx102.sc9.admob.com^
+|| tx103.sc9.admob.com^
+|| u.admob.com^
+|| ukr.admob.com^
+|| undefined.fls.doubleclick.net^
+|| v.admob.com^
+|| vi.advertisercommunity.com^
+|| video-ad-stats.googlesyndication.com^
+|| view.comms.doubleclick.com^
+|| vip.sc9.admob.com^
+|| vodads.g.doubleclick.net^
+|| w.admob.com^
+|| wap.admob.com^
+|| waps.admob.com^
+|| wendy.admob.com^
+|| www.adgoogle.net^
+|| www.admin.ft.nest.com^
+|| www.admin.home.ft.nest.com^
+|| www.admin.nest.com^
+|| www.admin.store.nest.com^
+|| www.admob.com^
+|| www.ads.google.com^
+|| www.advertisercommunity.com^
+|| www.adwords.google.com^
+|| www.de.advertisercommunity.com^
+|| www.doubleclick.com^
+|| www.doubleclick.ne.jp^
+|| www.doubleclick.net^
+|| www.doubleclickbygoogle.com^
+|| www.en.advertisercommunity.com^
+|| www.es.advertisercommunity.com^
+|| www.fr.advertisercommunity.com^
+|| www.googleads.g.doubleclick.com^
+|| www.googleadservices.com^
+|| www.it.advertisercommunity.com^
+|| www.ja.advertisercommunity.com^
+|| www.pagead2.googlesyndication.com^
+|| www.pl.advertisercommunity.com^
+|| www.pt.advertisercommunity.com^
+|| www.ru.advertisercommunity.com^
+|| www.zh.advertisercommunity.com^
+|| www1.doubleclick.net^
+|| www2.doubleclick.com^
+|| www2.doubleclick.net^
+|| www3.doubleclick.com^
+|| www3.doubleclick.net^
+|| x.admob.com^
+|| y.admob.com^
+|| z.admob.com^
+|| zh.advertisercommunity.com^
+|| zhcn.admob.com^
+|| zhru.admob.com^
+|| zhtw.admob.com^
+|| zhuk.admob.com^
 ||academico.google.com^
 ||accounts.doubleclick.net^
 ||ad-creatives-public.commondatastorage.googleapis.com^
