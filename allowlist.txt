@@ -1,3 +1,4 @@
+# This is compatible with AdGuard (AdGuard Home and AdGuard DNS).
 @@||0.chart.apis.google.com^
 @@||0.client-channel.google.com^
 @@||0.firebaseio.com^
