@@ -9,7 +9,7 @@ pwa="||" # prefix with ads
 pwo="@@||" # prefix without ads
 s1="^" # suffix
 # Define the keywords for advertising links
-ak=["googleads","doubleclick","adsense"] # ads keywords
+ak=["googleads","doubleclick","adsense","admob","ads","ade","ad"] # ads keywords
 # Initialize two sets to store the lines with and without advertising links
 ads=set()
 noads=set()
