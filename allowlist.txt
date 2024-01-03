@@ -6970,7 +6970,7 @@
 @@||v8.cache1.c.youtube.com^
 @@||v9ef0rd01x.com^
 @@||v9ir8gv0rt.com^
-@@||valvesoftware.com^^
+@@||valvesoftware.com^
 @@||vanillacraftnetwork.com^
 @@||vendasamerican1.page.link^
 @@||versionhistory.googleapis.com^
