@@ -568,6 +568,7 @@
 0.0.0.0 u.admob.com^
 0.0.0.0 ukr.admob.com^
 0.0.0.0 undefined.fls.doubleclick.net^
+0.0.0.0 unityads.unity3d.com^
 0.0.0.0 v.admob.com^
 0.0.0.0 vi.advertisercommunity.com^
 0.0.0.0 video-ad-stats.googlesyndication.com^
@@ -1186,6 +1187,7 @@
 127.0.0.1 u.admob.com^
 127.0.0.1 ukr.admob.com^
 127.0.0.1 undefined.fls.doubleclick.net^
+127.0.0.1 unityads.unity3d.com^
 127.0.0.1 v.admob.com^
 127.0.0.1 vi.advertisercommunity.com^
 127.0.0.1 video-ad-stats.googlesyndication.com^
@@ -1804,6 +1806,7 @@
 ||u.admob.com^
 ||ukr.admob.com^
 ||undefined.fls.doubleclick.net^
+||unityads.unity3d.com^
 ||v.admob.com^
 ||vi.advertisercommunity.com^
 ||video-ad-stats.googlesyndication.com^
